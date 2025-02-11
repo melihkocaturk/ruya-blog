@@ -39,7 +39,7 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
 
-paginate: 3
+paginate: 10
 paginate_path: "/sayfa/:num/"
 show_excerpts: false
 

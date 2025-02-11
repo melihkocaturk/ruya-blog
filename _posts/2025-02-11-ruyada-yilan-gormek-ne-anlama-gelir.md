@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rüyada Yılan Görmek Ne Anlama Gelir?"
+description: "Rüyada yılan görmek, çoğu zaman korkutucu bir deneyim olsa da, bu rüyanın anlamı tamamen detaylara bağlıdır."
 ---
 
 Rüyalar, bilinçaltımızın bize mesajlar gönderdiği gizemli alanlardır. Özellikle yılan gibi sembolik hayvanlar, farklı kültürlerde ve inanç sistemlerinde çeşitli anlamlara sahiptir. Rüyada yılan görmek, çoğu zaman korkutucu bir deneyim olsa da, bu rüyanın anlamı tamamen detaylara bağlıdır.
