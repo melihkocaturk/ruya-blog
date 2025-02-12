@@ -1,22 +1,20 @@
 .post-list {
   margin: 1em 0;
-  list-style: none;
   &:hover,
   &:focus-within {
     .post-link {
-      opacity: .6;
+      opacity: .5;
     }
   }
 }
 
 .post-list li {
-  margin-bottom: 1em;
+  margin-left: 1em;
 }
 
 .post-link {
   color: $text-color;
-  display: flex;
-  flex-direction: column-reverse;
+  display: block;
   text-decoration: none;
   padding: .25em;
   transition: opacity .125s ease-in-out;
@@ -24,22 +22,10 @@
   &:focus {
     opacity: 1 !important;
   }
-  @media (min-width: $on-tablet) {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    .post-date {
-      margin-left: auto;
-    }
-  }
 }
 
 .post-link__heading {
   display: block;
-  margin-right: 4em;
-  @media (min-width: $on-tablet) {
-    padding: .25em 0;
-  }
   h1 {
     font-size: 1em;
     margin-bottom: 0;

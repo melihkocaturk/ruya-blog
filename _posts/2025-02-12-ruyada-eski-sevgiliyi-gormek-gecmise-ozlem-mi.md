@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Eski Sevgiliyi Görmek: Geçmişe Özlem mi?"
 description: "Bu tür rüyalar gerçekten eskiye duyulan bir özlem mi, yoksa bilinçaltımızın farklı bir mesajı mı var?"
+author: Morpheus
 ---
 
 Rüyalar, bilinçaltımızın en derin noktalarından gelen mesajlar olarak kabul edilir. Bazen geçmişte kalan insanları, özellikle de eski sevgilileri rüyamızda görmek, bizde güçlü duygular uyandırabilir. Peki, bu tür rüyalar gerçekten eskiye duyulan bir özlem mi, yoksa bilinçaltımızın farklı bir mesajı mı var?
