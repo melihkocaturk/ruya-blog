@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Rüyada
-email: info@ruyada.net.tr
+email: info@ruyada.web.tr
 description: >- # this means to ignore newlines until "baseurl:"
   Semboller, işaretler ve anlamları...
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ruyada.net.tr" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://ruyada.web.tr" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 
 # Build settings
