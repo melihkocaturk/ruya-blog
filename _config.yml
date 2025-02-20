@@ -46,6 +46,6 @@ show_excerpts: false
 # Permalinks
 permalink: /:title
 
-google_analytics: "G-J3008RYHE2"
+google_analytics: "G-TTT59G780P"
 disqus:
   shortname: ruyada
