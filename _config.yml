@@ -49,3 +49,4 @@ permalink: /:title
 google_analytics: "G-TTT59G780P"
 disqus:
   shortname: ruyada
+comments: true
