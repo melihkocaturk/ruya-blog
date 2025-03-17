@@ -13,7 +13,7 @@ Rüya yorumu, gören kişinin kişisel deneyimlerine ve psikolojik durumuna bağ
 
 1. **Fedakarlık ve Koruma Duygusu**: Bilinçaltınızda başkalarını koruma isteği olabilir. Bu, ailenize, dostlarınıza veya genel olarak topluma karşı hissettiğiniz sorumluluk duygusunun bir yansıması olabilir. Belki de gerçek hayatta birisine yardım etmeye çalışıyor ve onun iyiliği için çaba gösteriyorsunuz.
 2. **Kendi Kendinizi Kurtarma Arayışı**: Bazen rüyada başka birini kurtarmak, aslında kendi içsel sıkışmışlığımızdan kurtulma arzumuzu simgeler. İçinde bulunduğunuz bir durumdan çıkmak veya yaşadığınız bir sorunu çözmek için bilinçaltınız size bir mesaj veriyor olabilir. Bu rüya, sizin kendi ruhsal dönüşümünüzün bir parçası olabilir.
-3. **Bağkalarının Beklentileri ile Yüklenmek**: Başkalarının problemlerini çözme konusunda fazlasıyla sorumluluk aldığınız bir dönemde olabilirsiniz. Rüya, başkalarına yardımcı olmaya çalışırken kendi ihtiyaçlarınızı ihmal ettiğinizi size hatırlatıyor olabilir. Kendinize zaman ayırmanız gerektiğinin bir işareti olabilir.
+3. **Başkalarının Beklentileri ile Yüklenmek**: Başkalarının problemlerini çözme konusunda fazlasıyla sorumluluk aldığınız bir dönemde olabilirsiniz. Rüya, başkalarına yardımcı olmaya çalışırken kendi ihtiyaçlarınızı ihmal ettiğinizi size hatırlatıyor olabilir. Kendinize zaman ayırmanız gerektiğinin bir işareti olabilir.
 
 ## Rüya Detaylarına Dikkat!
 
