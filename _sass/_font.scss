@@ -1,9 +1,0 @@
-/* eb-garamond-regular - latin */
-@font-face {
-  font-family: 'EB Garamond';
-  font-style: normal;
-  font-weight: 400;
-  font-display: auto;
-  src: local('EB Garamond Regular'), local('EBGaramond-Regular'),
-       url('#{$asset_url}/fonts/eb-garamond.ttf') format('truetype'), /* Safari, Android, iOS */
-}
