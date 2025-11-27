@@ -1,0 +1,22 @@
+# Site
+url: "https://www.ruyada.web.tr"
+lang: tr
+title: Rüyada
+description: Semboller, işaretler ve anlamları...
+copyright: '<a href="https://www.melihkocaturk.com" class="text-black-50 text-decoration-none">Melih Kocatürk</a>'
+
+# Permalinks
+permalink: /:title
+
+# Pagination
+paginate: 10
+paginate_path: /sayfa:num/
+
+# Google Analytics
+google_analytics: G-TTT59G780P
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
