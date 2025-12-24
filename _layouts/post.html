@@ -5,5 +5,25 @@ layout: default
 <article>
   <div class="mb-3"><time>{{page.date | date: "%d.%m.%Y" }}</time></div>
   <h1 class="mb-3">{{ page.title }}</h1>
+
   <p>{{ page.content }}</p>
+
+  <div class="row mt-5">
+    {% if page.previous %}
+      <div class="col-md-6 mb-3">
+        <a href="{{ page.previous.url | relative_url }}" class="text-black text-decoration-none">
+          <b>&laquo; Önceki</b><br>
+          {{ page.previous.title }}
+        </a>
+      </div>
+    {% endif %}
+    {% if page.next %}
+      <div class="col-md-6 mb-3 text-end">
+        <a href="{{ page.next.url | relative_url }}" class="text-black text-decoration-none">
+          <b>Sonraki &raquo;</b><br>
+          {{ page.next.title }}
+        </a>
+      </div>
+    {% endif %}
+  </div>
 </article>
