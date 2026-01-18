@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Birinin Adını Unutmak: Bağ Kopuyor mu?"
 description: "Bu yazıda rüyada birinin adını unutmanın olası anlamlarını duygusal, psikolojik ve sembolik yönleriyle detaylıca inceleyeceğiz."
+image: images/2025/12/ruyada-birinin-adini-unutmak-bag-kopuyor-mu.jpg
 ---
 
 Rüyalar, bilinçaltımızın sembollerle konuştuğu gizemli bir alandır. Özellikle rüyada tanıdık birinin **adını unutmak**, birçok kişi için huzursuz edici bir deneyim olabilir. Uyanınca “Bu kişiyle aram mı açılıyor?” ya da “Onu hayatımdan mı siliyorum?” gibi sorular akla gelir. Peki bu rüya gerçekten bir kopuşun habercisi mi, yoksa daha derin bir anlam mı taşıyor?

@@ -4,6 +4,9 @@ layout: default
 
 {% for post in paginator.posts %}
   <article class="post pb-4 mb-4">
+    {% if post.image %}
+      <a href="{{ post.url }}"><img src="/{{ post.image }}" class="img-fluid mb-4" alt="{{ post.title }}"></a>
+    {% endif %}
     <div class="mb-3"><time>{{post.date | date: "%d.%m.%Y" }}</time></div>
     <h2 class="mb-3">{{ post.title }}</h2>
     <p>{{ post.excerpt }}</p>

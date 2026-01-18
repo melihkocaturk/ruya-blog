@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Kapı Görmek: Yeni Fırsatlar mı, Engeller mi?"
 description: "Rüyada kapı görmek ne anlama gelir? Bu, yeni fırsatların habercisi mi yoksa karşımıza çıkacak engellerin bir işareti mi?"
+image: images/2025/02/ruyada-kapi-gormek-yeni-firsatlar-mi-engeller-mi.jpg
 ---
 
 Rüyalar, bilinçaltımızın bizlere mesajlar gönderdiği gizemli bir alan olarak kabul edilir. Rüyalarda görülen semboller, kişisel deneyimlerimize ve duygusal durumumuza göre farklı anlamlar taşıyabilir. Peki, rüyada kapı görmek ne anlama gelir? Bu, yeni fırsatların habercisi mi yoksa karşımıza çıkacak engellerin bir işareti mi?

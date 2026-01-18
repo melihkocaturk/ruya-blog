@@ -9,7 +9,7 @@ copyright: '<a href="https://www.melihkocaturk.com" class="text-black-50 text-de
 permalink: /:title
 
 # Pagination
-paginate: 10
+paginate: 5
 paginate_path: /sayfa:num/
 
 # Google Analytics

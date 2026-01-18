@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Birinin Seni Anlamaması: Görülmeme Hissi mi?"
 description: "Rüyada birinin seni anlamaması ne anlama gelir? Bu rüya görülmeme hissi, duygusal yalnızlık ve bilinçaltı mesajlarıyla nasıl ilişkilidir?"
+#image: images/2025/12/ruyada-birinin-seni-anlamamasi-gorulmeme-hissi-mi.jpg
 ---
 
 Rüyalar çoğu zaman bilinçaltımızın sessizce konuştuğu alanlardır. Günlük hayatta dile getiremediğimiz duygular, bastırdığımız düşünceler ve farkına varmadığımız içsel çatışmalar rüyalar aracılığıyla kendini gösterebilir. **Rüyada birinin seni anlamaması**, bu bağlamda oldukça güçlü ve katmanlı bir semboldür. Peki bu rüya gerçekten “görülmeme” ya da “anlaşılmama” hissine mi işaret eder?

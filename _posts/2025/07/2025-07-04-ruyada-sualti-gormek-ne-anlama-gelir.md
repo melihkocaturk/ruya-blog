@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Sualtı Görmek Ne Anlama Gelir?"
 description: "Bu yazımızda 'Rüyada sualtı görmek ne anlama gelir?' sorusunu farklı açılardan inceleyeceğiz."
+image: images/2025/07/ruyada-sualti-gormek-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın sembolik dilidir. Kimi zaman yaşadıklarımızın, kimi zaman da bastırdığımız duyguların dışavurumudur. Rüyada sualtında olmak ya da sualtını görmek ise hem derin hem de oldukça ilginç anlamlar taşır. Bu yazımızda “Rüyada sualtı görmek ne anlama gelir?” sorusunu farklı açılardan inceleyeceğiz.

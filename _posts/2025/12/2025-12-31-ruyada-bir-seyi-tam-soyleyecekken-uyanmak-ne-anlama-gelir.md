@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Bir Şeyi Tam Söyleyecekken Uyanmak Ne Anlama Gelir?"
 description: "Bu yazıda rüyada bir şeyi tam söyleyecekken uyanmanın psikolojik, sembolik ve ruhsal anlamlarını detaylı şekilde ele alıyoruz."
+image: images/2025/12/ruyada-bir-seyi-tam-soyleyecekken-uyanmak.jpg
 ---
 
 Rüyada önemli bir cümleyi söylemek üzereyken ya da bir sırrı açıklayacakken aniden uyanmak, birçok kişinin yaşadığı ve etkisi uzun süre devam eden bir rüya deneyimidir. Uyanıldığında “Az daha öğrenecektim” ya da “Tam söyleyecektim” hissi, zihinde bir eksiklik ve merak bırakır. Peki bu rüya ne anlatmak ister? Bilinçaltı hangi mesajı verir?

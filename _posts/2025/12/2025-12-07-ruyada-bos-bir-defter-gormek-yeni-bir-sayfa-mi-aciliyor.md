@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Boş Bir Defter Görmek: Yeni Bir Sayfa mı Açılıyor?"
 description: "Bu yazıda, rüyada boş defter görmenin tüm olası anlamlarını, farklı senaryolarla birlikte derinlemesine inceleyeceğiz."
+image: images/2025/12/ruyada-bos-bir-defter-gormek-yeni-bir-sayfa-mi-aciliyor.jpg
 ---
 
 Rüyada boş bir defter görmek, çoğu zaman hayatın belirli alanlarında yeni başlangıçlara, temiz bir sayfaya ve kişinin kendi kaderini yeniden şekillendirme gücüne işaret eden güçlü bir semboldür. Bu rüya; potansiyeli, belirsizliği, fırsatları ve kişinin kendi iç dünyasında yaşadığı dönüşümü yansıtır. Ancak boş defter her zaman aynı anlama gelmez. Rüyanın detayları, defterin durumu, rüya sahibinin ruh hali ve deftere karşı gösterilen davranışlar yorumun yönünü değiştirir.

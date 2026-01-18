@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Yıldız Görmek: Dileklerin mi Gerçek Oluyor?"
 description: "Rüyada yıldız görmek umut, rehberlik, başarı ve bazen de dileklerin gerçekleşmesi anlamına gelebilir."
+image: images/2025/03/ruyada-yildiz-gormek-dileklerin-mi-gercek-oluyor.jpg
 ---
 
 Rüyalar, bilinçaltımızın mesajlarını, duygularımızı ve bazen de ilahi işaretleri barındıran gizemli dünyalardır. Rüyada yıldız görmek ise umut, rehberlik, başarı ve bazen de dileklerin gerçekleşmesi anlamına gelebilir. Peki, rüyanızda yıldız gördüyseniz, bu ne anlama gelir? İşte yıldızlarla dolu rüyaların olası yorumları...

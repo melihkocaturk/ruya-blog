@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Sürekli Ertelemek: Bilinçaltı Neye Direniyor?"
 description: "Rüyada sürekli ertelemek ne anlama gelir? Bu rüya bilinçaltının hangi korkulara ve içsel dirençlere işaret ettiğini psikolojik açıdan detaylı şekilde ele alıyoruz."
+image: images/2025/12/ruyada-surekli-ertelemek-bilincalti-neye-direniyor.jpg
 ---
 
 Rüyalar çoğu zaman gündelik hayatımızda fark etmediğimiz duyguların, korkuların ve bastırılmış düşüncelerin sembolik bir yansımasıdır. Rüyada **sürekli bir şeyi ertelediğini görmek** ise özellikle dikkat çekici bir temadır. Bir yere geç kalmak, yapılması gereken bir işi hep “sonra”ya bırakmak ya da bir kararı rüyada bile alamamak, bilinçaltının güçlü bir mesaj taşıdığını gösterir.

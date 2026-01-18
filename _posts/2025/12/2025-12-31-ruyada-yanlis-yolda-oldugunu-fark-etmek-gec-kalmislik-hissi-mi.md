@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Yanlış Yolda Olduğunu Fark Etmek: Geç Kalmışlık Hissi mi?"
 description: "Bu yazıda, rüyada yanlış yolda olduğunu fark etmenin psikolojik, sembolik ve duygusal anlamlarını detaylı şekilde ele alacağız."
+image: images/2025/12/ruyada-yanlis-yolda-oldugunu-fark-etmek-gec-kalmislik-hissi-mi.jpg
 ---
 
 Rüyada yürüdüğün yolun yanlış olduğunu fark etmek, birçok kişi için huzursuz edici ama aynı zamanda düşündürücü bir deneyimdir. Bu tür rüyalar genellikle “Bir şeyleri yanlış mı yapıyorum?”, “Hayatımda geç mi kaldım?” ya da “Başka bir yolda mı olmalıydım?” gibi soruları beraberinde getirir.  

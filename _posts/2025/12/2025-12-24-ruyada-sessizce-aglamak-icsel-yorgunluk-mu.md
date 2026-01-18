@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Sessizce Ağlamak: İçsel Yorgunluk mu?"
 description: "Rüyada sessizce ağlamak ne anlama gelir? İçsel yorgunluk, bastırılmış duygular ve manevi yorumlarıyla detaylı rüya tabiri."
+image: images/2025/12/ruyada-sessizce-aglamak-icsel-yorgunluk-mu.jpg
 ---
 
 Rüyalar, bilinçaltımızın bizle kurduğu en derin iletişim biçimlerinden biridir. Özellikle ağlamak gibi güçlü duygular içeren rüyalar, kişinin ruh haline, bastırılmış hislerine ve yaşadığı içsel süreçlere dair önemli mesajlar taşır. Peki **rüyada sessizce ağlamak** ne anlama gelir? Bu rüya gerçekten içsel bir yorgunluğun işareti mi, yoksa farklı bir mesaj mı verir?
