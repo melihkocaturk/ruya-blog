@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Birinden Kaçmak Ne Anlama Gelir?"
 description: "Bu yazıda rüyada birinden kaçmanın genel anlamlarını, farklı senaryolara göre yorumlarını ve psikolojik açıdan ne ifade ettiğini detaylı şekilde ele alacağız."
+image: images/2025/12/ruyada-birinden-kacmak-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın semboller aracılığıyla bize mesajlar verdiği özel deneyimlerdir. Günlük hayatta bastırılan korkular, kaygılar ve yüzleşmekten kaçınılan durumlar çoğu zaman rüyalar yoluyla ortaya çıkar. **Rüyada birinden kaçmak**, en sık görülen rüyalardan biri olup genellikle içsel çatışmaları ve kaçınma davranışlarını simgeler.

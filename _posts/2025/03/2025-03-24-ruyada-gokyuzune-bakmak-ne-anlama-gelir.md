@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Gökyüzüne Bakmak Ne Anlama Gelir?"
 description: "Rüyada gökyüzüne bakmak ruhsal bir uyanışa mı işaret eder, yoksa gelecekle ilgili kaygılarımızı mı yansıtır?"
+image: images/2025/03/ruyada-gokyuzune-bakmak-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın derinliklerinden gelen mesajlar taşır. Gökyüzüne bakmak ise hem umut hem de belirsizlikle ilişkilendirilen güçlü bir semboldür. Peki, rüyada gökyüzüne bakmak ruhsal bir uyanışa mı işaret eder, yoksa gelecekle ilgili kaygılarımızı mı yansıtır?

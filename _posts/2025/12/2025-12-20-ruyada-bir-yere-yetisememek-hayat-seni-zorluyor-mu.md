@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Bir Yere Yetişememek: Hayat Seni Zorluyor mu?"
 description: "Rüyada bir yere yetişememek ne anlama gelir? Bu rüyanın psikolojik ve manevi yorumlarını, stres ve hayat temposu ile ilişkisini detaylı şekilde keşfedin."
+image: images/2025/12/ruyada-bir-yere-yetisememek-hayat-seni-zorluyor-mu.jpg
 ---
 
 Rüyada bir yere yetişemediğini görmek, en sık görülen ve en çok merak edilen rüya temalarından biridir. Otobüsü kaçırmak, sınava geç kalmak, uçağa yetişememek ya da önemli bir buluşmaya zamanında varamamak… Bu tür rüyalar genellikle kişide yoğun bir stres ve kaygı hissi bırakır. Peki bu rüya ne anlama gelir? Gerçek hayatta bize ne anlatmak istiyor olabilir?

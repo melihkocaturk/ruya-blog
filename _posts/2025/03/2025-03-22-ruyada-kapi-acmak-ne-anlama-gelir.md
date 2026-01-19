@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Kapı Açmak Ne Anlama Gelir?"
 description: "Rüyada bir kapı açmak, genellikle yeni başlangıçların, keşfedilmemiş fırsatların veya bilinmezlikle yüzleşmenin habercisi olabilir."
+image: images/2025/03/ruyada-kapi-acmak-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize gönderdiği gizemli mesajlarla doludur. Kapılar ise bu mesajların en önemli sembollerinden biridir. Rüyada bir kapı açmak, genellikle yeni başlangıçların, keşfedilmemiş fırsatların veya bilinmezlikle yüzleşmenin habercisi olabilir. Ancak, bu rüyanın tam anlamı, rüyanın içeriğine ve hissedilen duygulara göre değişebilir.

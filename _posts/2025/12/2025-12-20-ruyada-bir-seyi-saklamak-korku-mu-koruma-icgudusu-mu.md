@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Bir Şeyi Saklamak: Korku mu, Koruma İçgüdüsü mü?"
 description: "Rüyada bir şeyi saklamak ne anlama gelir? Bu rüyanın korku, gizlilik ve koruma içgüdüsüyle ilişkisini psikolojik ve sembolik açıdan detaylı şekilde keşfedin."
+image: images/2025/12/ruyada-bir-seyi-saklamak-korku-mu-koruma-icgudusu-mu.jpg
 ---
 
 Rüyalar, bilinçaltımızın semboller aracılığıyla konuştuğu en güçlü alanlardan biridir. Rüyada **bir şeyi saklamak**, ilk bakışta basit bir eylem gibi görünse de; korku, suçluluk, korunma ihtiyacı, gizlilik arzusu ya da içsel çatışmalar gibi pek çok derin anlam barındırabilir. Bu yazıda, rüyada bir şeyi saklamanın olası anlamlarını psikolojik ve sembolik açıdan detaylı şekilde ele alacağız.

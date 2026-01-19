@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Yavaş Hareket Etmek: Hayatta Tıkanıklık mı Yaşıyorsun?"
 description: "Bu yazıda rüyada yavaş hareket etmenin olası anlamlarını psikolojik ve sembolik açıdan ele alıyoruz."
+image: images/2025/12/ruyada-yavas-hareket-etmek-hayatta-tikaniklik-mi-yasiyorsun.jpg
 ---
 
 Rüyada yavaş hareket ettiğini görmek; çoğu kişinin yaşadığı, uyanınca huzursuzluk bırakan rüya temalarından biridir. Koşmak isterken yürüyememek, bir yere yetişmeye çalışıp adım atamamak ya da bedenin ağırlaşması… Bu tür rüyalar genellikle **bilinçaltındaki tıkanıklık, baskı ve kontrol kaybı duygularını** simgeler.

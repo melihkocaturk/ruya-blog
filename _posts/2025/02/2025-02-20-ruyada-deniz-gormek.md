@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Deniz Görmek: Sakinlik mi, Duygusal Dalgalanma mı?"
 description: "Sakin bir deniz huzuru mu, yoksa dalgalı bir deniz duygusal çalkantıyı mı simgeler?"
+image: images/2025/02/ruyada-deniz-gormek-sakinlik-mi-duygusal-dalgalanma-mi.jpg
 ---
 
 Rüyalar, bilinçaltımızın bizlere sunduğu gizemli mesajlarla doludur. Özellikle doğa unsurlarını içeren rüyalar, güçlü semboller barındırır. Deniz, sonsuzluğu, derin duyguları ve bilinçaltının gizli katmanlarını temsil eden etkileyici bir rüya simgesidir. Peki, rüyada deniz görmek ne anlama gelir? Sakin bir deniz huzuru mu, yoksa dalgalı bir deniz duygusal çalkantıyı mı simgeler?

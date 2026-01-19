@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Bir Şeyi Yanlış Yaptığını Fark Etmek: Bilinçaltı Uyarı mı?"
 description: "Bu yazıda, rüyada yanlış yaptığını fark etmenin olası anlamlarını psikolojik ve sembolik açıdan detaylı şekilde ele alacağız."
+image: images/2025/12/ruyada-bir-seyi-yanlis-yaptigini-fark-etmek-bilincalti-uyari-mi.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize semboller aracılığıyla mesajlar ilettiği özel bir alandır. Özellikle rüyada **bir şeyi yanlış yaptığını fark etmek**, çoğu kişi için rahatsız edici ama bir o kadar da düşündürücü bir deneyimdir. Bu tür rüyalar, yalnızca görülen sahneden ibaret olmayıp; kişinin ruh hali, vicdanı, korkuları ve bastırılmış düşünceleriyle yakından ilişkilidir.

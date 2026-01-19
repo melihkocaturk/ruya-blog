@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Yabancı Bir Evde Uyanmak: Kimlik Değişimi mi?"
 description: "Bu yazıda rüyada yabancı bir evde uyanmanın psikolojik, sembolik ve spiritüel yorumlarını detaylı biçimde ele alacağız."
+image: images/2025/12/ruyada-yabanci-bir-evde-uyanmak-kimlik-degisimi-mi.jpg
 ---
 
 Rüyalar, bilinçaltımızın sembollerle konuştuğu gizli bir dildir. Bu sembollerden biri de **yabancı bir evde uyanmak**tır. Pek çok kişi bu rüyayı gördüğünde şaşkınlık, huzursuzluk ya da merak hisseder. Peki bu rüya ne anlatır? Gerçekten bir **kimlik değişimine** mi işaret eder, yoksa hayatın başka alanlarına dair bir mesaj mı taşır?
