@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Birinin Öldüğünü Görmek Ne Anlama Gelir?"
 description: "Bu yazıda rüyada birinin öldüğünü görmenin olası anlamlarını, İslami rüya tabirlerine göre yorumlarını, psikolojik açıklamalarını ve rüyada ölen kişinin kim olduğuna göre değişen anlamlarını detaylı şekilde ele alacağız."
+image: images/2025/12/ruyada-birinin-oldugunu-gormek-ne-anlama-gelir.jpg
 ---
 
 Rüyada birinin öldüğünü görmek, rüya tabirleri arasında en çok merak edilen ve ilk bakışta insanı tedirgin eden rüyalardan biridir. Ancak bu tür rüyalar çoğu zaman **gerçek hayatta olumsuz bir olaya işaret etmez**. Aksine, sembolik anlamlar taşır ve kişinin ruh hali, bilinçaltı süreçleri veya hayatındaki dönüşümlerle ilişkilendirilir.

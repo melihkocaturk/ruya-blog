@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Birinin Sana Yol Göstermesi: İçsel Rehberlik mi?"
 description: "Rüyada birinin sana yol göstermesi ne anlama gelir? Bu rüyanın psikolojik, manevi ve sembolik yorumlarını detaylı şekilde keşfedin."
+image: images/2025/12/ruyada-birinin-sana-yol-gostermesi-icsel-rehberlik-mi.jpg
 ---
 
 Rüyada birinin sana yol göstermesi, birçok kültürde *rehberlik, korunma, doğru yolu bulma, karar verme ve içsel dönüşüm* temalarıyla ilişkilendirilir. Bu rüyanın anlamı, rüyayı kimin gösterdiğine, ortamın nasıl olduğuna ve rüya sırasında senin nasıl hissettiğine göre değişir.

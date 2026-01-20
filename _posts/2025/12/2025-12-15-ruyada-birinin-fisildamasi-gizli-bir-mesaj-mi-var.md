@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Birinin Fısıldaması: Gizli Bir Mesaj mı Var?"
 description: "Bu yazıda rüyada fısıltı duymanın olası anlamlarını, farklı senaryolara göre yorumlarını ve psikolojik açıdan ne ifade edebileceğini detaylı şekilde ele alıyoruz."
+image: images/2025/12/ruyada-birinin-fisildamasi-gizli-bir-mesaj-mi-var.jpg
 ---
 
 Rüyalar, bilinçaltımızın semboller aracılığıyla konuştuğu özel bir alan olarak kabul edilir. Bu sembollerden biri de **rüyada birinin fısıldaması**dır. Fısıltı; gizem, sır, uyarı ve içsel mesajlarla ilişkilendirilir. Peki rüyada birinin kulağınıza fısıldadığını görmek ne anlama gelir? Bu rüya gerçekten gizli bir mesaj mı taşıyor, yoksa zihinsel süreçlerimizin bir yansıması mı?

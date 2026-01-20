@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Aynı Cümleyi Tekrar Tekrar Duymak: Bilinçaltı Ne Söylemek İstiyor?"
 description: "Bu yazıda rüyada aynı cümleyi defalarca duymanın psikolojik, sembolik ve ruhsal anlamlarını detaylı şekilde ele alıyoruz."
+image: images/2025/12/ruyada-ayni-cumleyi-tekrar-tekrar-duymak.jpg
 ---
 
 Rüyalar, bilinçaltımızın sembollerle ve imgelerle konuştuğu özel bir dil gibidir. Bazı rüyalar görüntülerle doluyken, bazıları ise kelimeler üzerinden güçlü mesajlar verir. Özellikle rüyada *aynı cümleyi tekrar tekrar duymak*, birçok kişi için hem merak uyandırıcı hem de huzursuz edici bir deneyim olabilir. Peki bu rüya ne anlama gelir? Bilinçaltımız bize ne anlatmaya çalışıyor olabilir?

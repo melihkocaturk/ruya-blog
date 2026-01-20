@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Su Görmek Ne Demektir? Temiz, Bulanık ve Akan Su Rüyalarının Anlamı"
 description: "Bu yazıda rüyada temiz su görmek, rüyada bulanık su görmek ve rüyada akan su görmek başta olmak üzere suyla ilgili rüyaların anlamlarını detaylı şekilde ele alıyoruz."
+image: images/2025/12/ruyada-su-gormek-ne-demektir.jpg
 ---
 
 Rüyalar, bilinçaltımızın semboller aracılığıyla bize mesajlar verdiği özel deneyimlerdir. Bu semboller arasında su, en sık görülen ve en güçlü anlamlara sahip unsurlardan biridir. Rüyada su görmek; ruh hali, içsel denge, bolluk, arınma ve yaşam enerjisiyle doğrudan ilişkilendirilir. Ancak suyun durumu, rengi ve hareketi rüyanın anlamını tamamen değiştirebilir.

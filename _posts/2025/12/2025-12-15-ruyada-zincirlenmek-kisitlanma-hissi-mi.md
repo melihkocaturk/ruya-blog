@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Zincirlenmek: Kısıtlanma Hissi mi?"
 description: "Rüyada zincirlenmek ne anlama gelir? Bu rüya sadece olumsuz bir mesaj mı taşır, yoksa farkındalık kazandıran bir uyarı mı olabilir?"
+image: images/2025/12/ruyada-zincirlenmek-kisitlanma-hissi-mi.jpg
 ---
 
 Rüyalar, bilinçaltımızın sembollerle konuştuğu özel bir alandır. Günlük hayatta bastırdığımız duygular, korkular ve arzular rüyalar aracılığıyla kendini gösterebilir. Rüyada zincirlenmek, en dikkat çekici ve güçlü sembollerden biridir. Bu rüya çoğu zaman kişinin hayatındaki kısıtlanma, baskı veya çaresizlik duygularıyla ilişkilendirilir.
