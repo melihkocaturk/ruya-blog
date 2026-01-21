@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Ayakkabının Tekini Kaybetmek Ne Anlama Gelir?"
 description: "Bu yazıda, oldukça yaygın görülen bir rüya türü olan 'rüyada ayakkabının tekini kaybetmek' konusunu detaylı olarak ele alacağız."
+image: images/2025/07/ruyada-ayakkabinin-tekini-kaybetmek.jpg
 ---
 
 Rüyalar, bilinçaltımızın derinliklerinden gelen sembollerle doludur. Gördüğümüz her rüya, günlük yaşamımızda yaşadığımız duyguların, korkuların, beklentilerin ya da farkında olmadığımız düşüncelerin bir yansıması olabilir. Bu yazıda, oldukça yaygın görülen bir rüya türü olan "rüyada ayakkabının tekini kaybetmek" konusunu detaylı olarak ele alacağız.

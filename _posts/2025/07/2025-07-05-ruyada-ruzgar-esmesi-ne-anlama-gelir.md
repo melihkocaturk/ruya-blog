@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Rüzgar Esmesi Ne Anlama Gelir?"
 description: "Rüyada rüzgar esmesi neyi simgeler? Hafif bir meltem mi yoksa şiddetli bir fırtına mı gördünüz?"
+image: images/2025/07/ruyada-ruzgar-esmesi-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın derinliklerinden gelen mesajları taşıyan gizemli hikâyelerdir. Özellikle doğa olayları – rüzgar gibi – rüyalarda sıkça sembolik anlamlar içerir. Peki rüyada rüzgar esmesi neyi simgeler? Hafif bir meltem mi yoksa şiddetli bir fırtına mı gördünüz? İşte detaylar…

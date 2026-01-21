@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Tiyatro İzlemek Ne Anlama Gelir?"
 description: "Rüyada tiyatro izlemek hem sahnelenen hayatı, hem de izleyici olarak durduğumuz noktayı simgeler."
+image: images/2025/07/ruyada-tiyatro-izlemek-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın bizlere göndermeye çalıştığı gizemli mesajlarla doludur. Rüyada tiyatro izlemek ise hem sahnelenen hayatı, hem de izleyici olarak durduğumuz noktayı simgeler. Peki bu rüya tam olarak ne anlatmak istiyor olabilir?

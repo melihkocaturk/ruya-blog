@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Kapının Çalınması: Bir Haber mi Geliyor?"
 description: "Bu yazıda rüyada kapının çalınmasının ne anlama geldiğini, olumlu ve olumsuz yorumlarını, farklı durumlara göre ne ifade ettiğini ve psikolojik açıdan nasıl değerlendirildiğini ele alıyoruz."
+image: images/2025/11/ruyada-kapinin-calinmasi-bir-haber-mi-geliyor.jpg
 ---
 
 Rüyada kapının çalınması, birçok kişi tarafından merak edilen ve farklı anlamlarla yorumlanan bir rüya sembolüdür. Kapı, yaşamda fırsatları, yeni başlangıçları, değişimleri ve dış dünyayla olan bağlantımızı temsil eder. Bu nedenle kapının çalınması da genellikle bir haber, gelişme, beklenen bir misafir veya hayatınıza girmek üzere olan bir değişimin habercisi olarak değerlendirilir. Ancak rüyanın ayrıntıları, görüldüğü zaman ve rüyayı gören kişinin ruh hali, yorumun değişmesine neden olabilir.

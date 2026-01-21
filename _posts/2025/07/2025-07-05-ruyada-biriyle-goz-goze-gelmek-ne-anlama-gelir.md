@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Biriyle Göz Göze Gelmek Ne Anlama Gelir?"
 description: "Göz göze gelmek, bir mesaj mıdır, yoksa bastırılmış duyguların yüzeye çıkışı mı?"
+image: images/2025/07/ruyada-biriyle-goz-goze-gelmek.jpg
 ---
 
 Rüyalar, bilinçaltımızın gizemli diliyle bize mesajlar iletir. Kimi zaman bir sembol, kimi zaman da bir bakış rüyada derin anlamlar taşıyabilir. Rüyada biriyle göz göze gelmek de bu türden etkileyici deneyimlerden biridir. Peki bu rüya ne anlama gelir? Göz göze gelmek, bir mesaj mıdır, yoksa bastırılmış duyguların yüzeye çıkışı mı?

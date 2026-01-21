@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Renkleri Canlı Görmek Ne Anlama Gelir?"
 description: "Rüyada renkleri canlı, parlak ve belirgin bir şekilde görmek ne anlama gelir? Bu yazıda rüyalarda canlı renklerin psikolojik ve sembolik anlamlarını keşfedeceğiz."
+image: images/2025/07/ruyada-renkleri-canli-gormek-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın dilidir. Zihnimizin en derin köşelerinden gelen imgeler, bazen bize mesajlar taşır. Özellikle renkler, rüya yorumlarında oldukça önemli bir yer tutar. Peki rüyada renkleri canlı, parlak ve belirgin bir şekilde görmek ne anlama gelir? Bu yazıda rüyalarda canlı renklerin psikolojik ve sembolik anlamlarını keşfedeceğiz.

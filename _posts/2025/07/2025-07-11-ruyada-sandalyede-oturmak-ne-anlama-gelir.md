@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Sandalyede Oturmak Ne Anlama Gelir?"
 description: "Bu yazımızda, 'rüyada sandalyede oturmak' ne anlama gelir, hangi ruh hâllerini veya yaşamsal süreçleri yansıtır, detaylıca ele alacağız."
+image: images/2025/07/ruyada-sandalyede-oturmak-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın bir yansıması olarak bizlere mesajlar iletebilir. Her sembol, her obje ya da her hareket, rüya tabirlerinde farklı anlamlara gelir. Bu yazımızda, özellikle “rüyada sandalyede oturmak” ne anlama gelir, hangi ruh hâllerini veya yaşamsal süreçleri yansıtır, detaylıca ele alacağız.

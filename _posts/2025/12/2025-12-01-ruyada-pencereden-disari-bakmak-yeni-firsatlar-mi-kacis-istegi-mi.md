@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Pencereden Dışarı Bakmak: Yeni Fırsatlar mı, Kaçış İsteği mi?"
 description: "Rüyada pencereden dışarı bakmak ne anlama gelir? Bu rüya yeni fırsatların habercisi mi yoksa kaçış isteğinin yansıması mı?"
+image: images/2025/12/ruyada-pencereden-disari-bakmak.jpg
 ---
 
 Rüyalar, bilinçaltımızın sembollerle konuşma biçimidir. Özellikle pencereden dışarı bakmak gibi güçlü bir imgede hem merak, hem beklenti hem de duygusal içe dönüş bulunur. Bu nedenle rüyada pencereye yönelmek, çoğu zaman kişinin geleceğe, değişime ve özgürlüğe dair hissiyatını ortaya çıkarır. Peki bu rüya gerçekten bir **yeni başlangıç** mesajı mı, yoksa **içten içe duyulan bir kaçış isteği**nin yansıması mı? Bu yazıda, pencereden dışarı bakma temasını tüm yönleriyle ele alıyoruz.

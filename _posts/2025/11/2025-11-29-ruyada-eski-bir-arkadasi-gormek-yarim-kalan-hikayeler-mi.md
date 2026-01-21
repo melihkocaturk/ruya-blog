@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Eski Bir Arkadaşı Görmek: Yarım Kalan Hikayeler mi?"
 description: "Rüyada eski bir arkadaş görmek, geçmişle bağlantılı duyguları ve tamamlanmamış hikâyeleri işaret edebilir. Bu rüyanın olası anlamlarını ve detaylı yorumlarını keşfedin."
+image: images/2025/11/ruyada-eski-bir-arkadasi-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın sessizce konuştuğu alanlardır. Gündelik hayatın yoğunluğu, geçmişte yaşanan duygular ve farkında olmadığımız içsel çatışmalar rüyalar aracılığıyla kendini gösterir. Bu nedenle rüyada eski bir arkadaş görmek, çoğu zaman rastgele bir sahne değildir; kişinin geçmişiyle, anılarıyla ve tamamlanmamış duygularıyla bağlantılı güçlü bir mesaj taşıyabilir.

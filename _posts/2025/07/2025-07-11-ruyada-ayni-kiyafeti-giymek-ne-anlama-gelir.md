@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Aynı Kıyafeti Giymek Ne Anlama Gelir?"
 description: "Bu yazımızda, oldukça dikkat çekici bir tema olan 'rüyada aynı kıyafeti giymek' konusunun ne anlama geldiğini hem psikolojik hem de geleneksel rüya tabirlerine göre inceleyeceğiz."
+image: images/2025/07/ruyada-ayni-kiyafeti-giymek-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın derinliklerinden gelen sembollerle doludur. Gördüğümüz her detay, bazen geçmiş yaşantılarımızla bazen de geleceğe dair kaygı ve beklentilerimizle bağlantılı olabilir. Bu yazımızda, oldukça dikkat çekici bir tema olan "rüyada aynı kıyafeti giymek" konusunun ne anlama geldiğini hem psikolojik hem de geleneksel rüya tabirlerine göre inceleyeceğiz.

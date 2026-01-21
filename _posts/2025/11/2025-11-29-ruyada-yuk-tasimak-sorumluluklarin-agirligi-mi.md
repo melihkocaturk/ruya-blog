@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Yük Taşımak: Sorumlulukların Ağırlığı mı?"
 description: "Bu yazıda rüyada yük taşımakla ilgili tüm yorumları geleneksel ve psikolojik perspektiflerle ele alarak kapsamlı bir rehber sunuyorum."
+image: images/2025/11/ruyada-yuk-tasimak-sorumluluklarin-agirligi-mi.jpg
 ---
 
 Rüyada yük taşımak, hem geleneksel rüya tabirlerinde hem de modern psikolojik yorumlarda öne çıkan güçlü sembollerden biridir. Bu rüya, kişinin hayatındaki sorumlulukları, bilinçaltındaki baskıları, taşıdığı yükleri ve geleceğe dair kaygılarını temsil eder. Ancak rüyanın tam anlamı; yükün türü, ağırlığı, nerede taşıdığınız ve rüya sırasındaki duygularınız gibi detaylara göre değişiklik gösterebilir.

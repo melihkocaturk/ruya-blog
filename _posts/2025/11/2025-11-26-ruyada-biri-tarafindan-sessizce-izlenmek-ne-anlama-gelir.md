@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Biri Tarafından Sessizce İzlenmek Ne Anlama Gelir?"
 description: "Bu yazıda rüyada biri tarafından sessizce izlenmenin manevi, psikolojik ve günlük yaşamla ilgili olası yorumlarını detaylı şekilde inceleyeceğiz."
+image: images/2025/11/ruyada-biri-tarafindan-sessizce-izlenmek.jpg
 ---
 
 Rüyada birinin sizi uzaktan, sessizce ve hiçbir şey söylemeden izlediğini görmek, çoğu insanda merak ve tedirginlik duyguları uyandırır. Bu tür rüyalar genellikle bilinçaltının güçlü göndermeler yaptığı sahnelerdir. Kimi zaman uyarı niteliği taşır, kimi zaman ise kişinin içsel durumunu, korkularını veya bastırdığı duyguları yüzeye çıkarır.

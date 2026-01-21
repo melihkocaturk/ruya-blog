@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Buz Görmek Ne Anlama Gelir?"
 description: "Bu yazımızda, rüyada buz görmenin farklı yorumlarını detaylı şekilde inceleyeceğiz."
+image: images/2025/07/ruyada-buz-gormek-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın yansıması olduğu kadar, geçmiş yaşantılarımızın, duygularımızın ve beklentilerimizin de birer sembolüdür. Rüyada buz görmek ise hem olumlu hem de olumsuz anlamlar taşıyabilen, dikkat çekici bir simgedir. Peki rüyada buz görmek ne anlama gelir? Bu yazımızda bu rüyanın farklı yorumlarını detaylı şekilde inceleyeceğiz.
