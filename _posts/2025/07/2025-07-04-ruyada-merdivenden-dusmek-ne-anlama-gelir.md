@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Merdivenden Düşmek Ne Anlama Gelir?"
 description: "Bu yazıda, oldukça sık görülen rüyalardan biri olan rüyada merdivenden düşmek konusunu ele alıyoruz."
+image: images/2025/07/ruyada-merdivenden-dusmek-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın derinliklerinden gelen mesajları yansıtan sembolik anlatımlardır. Kimi zaman bir olayın iz düşümü, kimi zaman ise geleceğe dair içsel uyarılar olabilir. Bu yazıda, oldukça sık görülen rüyalardan biri olan rüyada merdivenden düşmek konusunu ele alıyoruz.

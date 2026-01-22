@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Aynı Şarkıyı Duymak Ne Anlama Gelir?"
 description: "Rüyada aynı şarkıyı sürekli duymanın psikolojik, manevi ve spiritüel anlamlarını birlikte inceleyelim."
+image: images/2025/07/ruyada-ayni-sarkiyi-duymak-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize mesajlar verdiği gizemli dünyalardır. Bazen bir sembol, bazen bir ses ya da melodi rüyalarımızda tekrar tekrar karşımıza çıkar. Peki, rüyada aynı şarkıyı sürekli duymak ne anlama gelir? Bu durumun psikolojik, manevi ve spiritüel anlamlarını birlikte inceleyelim.

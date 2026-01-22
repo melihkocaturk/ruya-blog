@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Kum Fırtınası Görmek Ne Anlama Gelir?"
 description: "Doğal afetler, fırtınalar, seller ya da kum fırtınaları gibi yoğun doğa olaylarını rüyada görmek ise genellikle sarsıcı ya da beklenmedik yaşam deneyimlerinin işaretçisidir."
+image: images/2025/07/ruyada-kum-firtinasi-gormek-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın yansıması olduğu kadar kimi zaman ruhsal ya da duygusal süreçlerin sembolik dışa vurumlarıdır. Doğal afetler, fırtınalar, seller ya da kum fırtınaları gibi yoğun doğa olaylarını rüyada görmek ise genellikle sarsıcı ya da beklenmedik yaşam deneyimlerinin işaretçisidir. Peki, rüyada kum fırtınası görmek neye işaret eder?

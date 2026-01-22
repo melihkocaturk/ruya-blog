@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Tren Kaçırmak: Kaçan Fırsatlar mı, Zamanlama Problemi mi?"
 description: "Rüyada tren kaçırmak ne anlama gelir? Gerçekten kaçan fırsatların mı yoksa kötü zamanlamanın mı habercisidir?"
+image: images/2025/06/ruyada-tren-kacirmak.jpg
 ---
 
 Rüyalar, bilinçaltımızın diliyle konuşur. Gün içinde farkına varmadığımız duygular, endişeler ve beklentiler gece olduğunda sembollerle karşımıza çıkar. Bu sembollerden biri de trendir. Özellikle de rüyada treni kaçırmak, birçok insanın sıkça gördüğü ve sonrasında üzerinde düşündüğü rüyalardandır. Peki bu rüya ne anlama gelir? Gerçekten kaçan fırsatların mı yoksa kötü zamanlamanın mı habercisidir?

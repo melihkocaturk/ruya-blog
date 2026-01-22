@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Tavanın Çökmesi Ne Anlama Gelir?"
 description: "Bu yazıda, oldukça dikkat çeken ve rahatsız edici bir rüya türü olan 'rüyada tavanın çökmesi' üzerine farklı yorumları ele alacağız."
+image: images/2025/07/ruyada-tavanin-cokmesi-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın bir yansıması olduğu kadar, duygusal durumlarımızı, korkularımızı ve beklentilerimizi de bize semboller aracılığıyla anlatır. Bu yazıda, oldukça dikkat çeken ve rahatsız edici bir rüya türü olan “rüyada tavanın çökmesi” üzerine farklı yorumları ele alacağız.

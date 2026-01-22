@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Eşyaların Hareket Etmesi Ne Anlama Gelir?"
 description: "Rüyada cansız eşyaların kendiliğinden hareket ettiğini görmek, pek çok kişide hem merak hem de tedirginlik uyandırır."
+image: images/2025/07/ruyada-esyalarin-hareket-etmesi-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın bizlere mesaj ilettiği gizemli dünyalardır. Özellikle rüyada cansız eşyaların kendiliğinden hareket ettiğini görmek, pek çok kişide hem merak hem de tedirginlik uyandırır. Peki, bu tür rüyalar ne anlama gelir? Sembollerle dolu bu rüyalar hangi ruh halimizin ya da yaşamımızdaki hangi olayların yansıması olabilir? Gelin birlikte inceleyelim.

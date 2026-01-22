@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Elektrik Kesintisi Görmek Ne Anlama Gelir?"
 description: "Rüyada elektrik kesintisi görmek ne anlama gelir? Bu tür bir rüya neyin habercisi olabilir?"
+image: images/2025/07/ruyada-elektrik-kesintisi-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın derinliklerinden gelen mesajlarla doludur. Bazen gündelik yaşantımızdan izler taşırken, bazen de içsel korkularımızı, beklentilerimizi ya da değişim arayışlarımızı yansıtır. Peki, rüyada elektrik kesintisi görmek ne anlama gelir? Bu tür bir rüya neyin habercisi olabilir?

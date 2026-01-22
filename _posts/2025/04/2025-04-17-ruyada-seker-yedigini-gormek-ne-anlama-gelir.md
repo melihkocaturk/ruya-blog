@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Şeker Yediğini Görmek Ne Anlama Gelir?"
 description: "Bu tatlı rüyanın ardında hangi anlamlar gizli olabilir?"
+image: images/2025/04/ruyada-seker-yedigini-gormek-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize anlattığı gizemli hikâyelerdir. Bazen bir sembol, bazen bir duygu, bazen de tatlı bir şeker bize mesajlar getirir. Peki, rüyada şeker yediğini görmek ne anlama gelir? Bu tatlı rüyanın ardında hangi anlamlar gizli olabilir?
