@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Tüy Görmek: Hafiflik mi, Ruhsal Mesaj mı?"
 description: "Zarif, hafif ve neredeyse görünmeyecek kadar narin olan tüyler, rüyada görüldüğünde derin anlamlar taşıyabilir."
+image: images/2025/04/ruyada-tuy-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize semboller aracılığıyla gönderdiği mesajlarla doludur. Bu sembollerden biri de tüylerdir. Zarif, hafif ve neredeyse görünmeyecek kadar narin olan tüyler, rüyada görüldüğünde derin anlamlar taşıyabilir. Peki, rüyada tüy görmek gerçekten bir huzur işareti mi, yoksa ruhsal bir mesaj mı barındırır?

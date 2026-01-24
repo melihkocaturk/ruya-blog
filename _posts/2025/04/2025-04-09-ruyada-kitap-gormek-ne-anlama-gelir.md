@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Kitap Görmek Ne Anlama Gelir?"
 description: "Rüyada kitap görmek, bilgi arayışının göstergesi mi, yoksa hayatın öğreteceği yeni derslerin habercisi mi?"
+image: images/2025/04/ruyada-kitap-gormek-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın bizlerle konuşma şeklidir. Bazıları basit bir günün yansımasıyken, bazıları hayatımızdaki önemli dönüşümlere işaret eder. Özellikle kitap gibi anlam yüklü semboller, rüya dünyasında ayrı bir yere sahiptir. Peki, rüyada kitap görmek ne anlama gelir? Bu, bir bilgi arayışının göstergesi mi, yoksa hayatın öğreteceği yeni derslerin habercisi mi?

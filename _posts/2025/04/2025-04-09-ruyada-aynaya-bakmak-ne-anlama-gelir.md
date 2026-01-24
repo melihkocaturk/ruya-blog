@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Aynaya Bakmak Ne Anlama Gelir?"
 description: "Rüyada aynaya bakmak, çoğu zaman kişinin içsel benliğiyle yüzleşmesini temsil eder."
+image: images/2025/04/ruyada-aynaya-bakmak-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize anlattığı hikâyelerdir. Her görüntü, her sembol aslında iç dünyamızdan bir parça taşır. Rüyada aynaya bakmak da bu sembollerden biridir; kendimizi gördüğümüz, hatta kimi zaman tanımakta zorlandığımız o an… Peki, rüyanda aynaya baktığını gördüysen, bu ne anlama gelir?

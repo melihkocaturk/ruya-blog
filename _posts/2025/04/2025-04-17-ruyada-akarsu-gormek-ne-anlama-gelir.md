@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Akarsu Görmek Ne Anlama Gelir?"
 description: "Bu yazımızda, rüyada akarsu görmenin neye işaret ettiğini, ruhsal ve psikolojik açıdan nasıl yorumlandığını birlikte inceleyeceğiz."
+image: images/2025/04/ruyada-akarsu-gormek-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın derinliklerinden gelen mesajlarla doludur. Bu mesajlar bazen geçmişin izlerini taşırken, bazen de geleceğe dair ipuçları verir. Rüyada akarsu görmek ise oldukça derin ve sembolik anlamlar barındırır. Bu yazımızda, rüyada akarsu görmenin neye işaret ettiğini, ruhsal ve psikolojik açıdan nasıl yorumlandığını birlikte inceleyeceğiz.

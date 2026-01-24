@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Akıl Hastanesi Görmek Ne Anlama Gelir?"
 description: "Rüyada akıl hastanesi görmek genellikle kişinin iç dünyasındaki karmaşaya, bastırılmış duygulara ya da ruhsal bir dönüşüm sürecine işaret eder."
+image: images/2025/04/ruyada-akil-hastanesi-gormek-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın gizemli diliyle bize mesajlar iletir. Kimi zaman bu mesajlar açık ve anlaşılır olurken, bazı rüyalar ise bizi düşündürür ve anlamını çözmeye çalışırız. Rüyada akıl hastanesi görmek de bu türden, derin anlamlar barındıran rüyalardandır. Peki, böyle bir rüya ne anlama gelir?

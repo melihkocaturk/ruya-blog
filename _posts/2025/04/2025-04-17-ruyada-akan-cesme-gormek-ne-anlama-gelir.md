@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Akan Çeşme Görmek Ne Anlama Gelir?"
 description: "Bu yazımızda, rüyada akan çeşme görmek ne anlama gelir sorusunun yanıtlarını detaylıca inceleyeceğiz."
+image: images/2025/04/ruyada-akan-cesme-gormek-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın yansıması olduğu kadar, kimi zaman geleceğe dair ipuçları sunduğuna inanılan sembollerle doludur. Bu sembollerden biri de akan çeşmedir. Peki, rüyada akan bir çeşme görmek ne anlama gelir? Bu rüya neyi simgeler? İşte detaylar...

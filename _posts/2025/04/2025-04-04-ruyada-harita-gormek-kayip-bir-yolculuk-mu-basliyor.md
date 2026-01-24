@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Harita Görmek: Kayıp Bir Yolculuk mu Başlıyor?"
 description: "Rüyada harita görmek, kaybolduğumuz bir sürecin işareti mi, yoksa yeni bir yolculuğun habercisi mi?"
+image: images/2025/04/ruyada-harita-gormek.jpg
 ---
 
 Rüyalar bazen bize yol gösterir, bazen de hayatımızdaki bilinmezlikleri simgeler. Özellikle harita görmek, oldukça derin ve sembolik anlamlar taşıyabilir. Peki, rüyada bir harita görmek ne anlama gelir? Bu, kaybolduğumuz bir sürecin işareti mi, yoksa yeni bir yolculuğun habercisi mi?

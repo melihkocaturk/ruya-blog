@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Akrep Görmek Ne Anlama Gelir?"
 description: "Rüyada akrep görmek, genellikle insanları tedirgin eden rüyalardan biridir. Peki bu rüya ne anlama gelir?"
+image: images/2025/04/ruyada-akrep-gormek-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın bizlerle konuşma şeklidir. Bazı rüyalar bizde hoş duygular uyandırırken, bazıları rahatsız edici ya da düşündürücü olabilir. Rüyada akrep görmek, genellikle insanları tedirgin eden rüyalardan biridir. Peki bu rüya ne anlama gelir? Gelin, birlikte inceleyelim.

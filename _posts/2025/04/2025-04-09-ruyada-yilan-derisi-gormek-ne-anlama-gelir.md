@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Yılan Derisi Görmek Ne Anlama Gelir?"
 description: "Bu sembol yenilenmenin habercisi midir, yoksa tehlikeli bir değişimin sinyali mi?"
+image: images/2025/04/ruyada-yilan-derisi-gormek-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın en derin mesajlarını taşıyan gizemli bir evrendir. Bazı semboller ise bu dünyada daha baskın, daha dikkat çekici hale gelir. Yılan derisi de bunlardan biridir. Peki rüyada yılan derisi görmek ne anlama gelir? Bu sembol yenilenmenin habercisi midir, yoksa tehlikeli bir değişimin sinyali mi?

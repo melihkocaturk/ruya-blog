@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Dolunay Görmek: İçsel Aydınlanma mı, Duygusal Taşma mı?"
 description: "Bazı imgeler, diğerlerinden çok daha güçlü mesajlar taşır. İşte dolunay da onlardan biri. Peki, rüyada dolunay görmek ne anlama gelir?"
+image: images/2025/04/ruyada-dolunay-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın sembollerle konuştuğu gizemli bir dünya… Bu dünyada bazı imgeler, diğerlerinden çok daha güçlü mesajlar taşır. İşte dolunay da onlardan biri. Peki, rüyada dolunay görmek ne anlama gelir? Bu rüya bir içsel aydınlanmanın habercisi mi, yoksa duygusal bir taşmanın sembolü mü?
