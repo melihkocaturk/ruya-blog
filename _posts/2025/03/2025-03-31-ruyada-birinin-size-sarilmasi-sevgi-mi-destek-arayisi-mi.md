@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Birinin Size Sarılması: Sevgi mi, Destek Arayışı mı?"
 description: "Rüyanızda birinin size sarıldığını görmek ne anlama gelir? Sevgi dolu bir temas mı yoksa bir destek arayışının sembolü mü?"
+image: images/2025/03/ruyada-birinin-size-sarilmasi.jpg
 ---
 
 Rüyalar, bilinçaltımızın mesajlarını taşıyan gizemli dünyalardır. Çoğu zaman, yaşadığımız duyguların ve zihnimizin derinliklerinde saklı düşüncelerin bir yansımasıdır. Peki, rüyanızda birinin size sarıldığını görmek ne anlama gelir? Sevgi dolu bir temas mı yoksa bir destek arayışının sembolü mü?

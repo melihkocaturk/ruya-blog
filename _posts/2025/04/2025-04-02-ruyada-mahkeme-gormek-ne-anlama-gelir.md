@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Mahkeme Görmek Ne Anlama Gelir?"
 description: "Rüyada mahkeme görmek de bu kapsamda çoğu zaman adalet, hesap verme ve vicdani muhasebe ile ilişkili bir sembol olarak yorumlanır."
+image: images/2025/04/ruyada-mahkeme-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızdan gelen mesajlar olarak yorumlanabilir ve farklı anlamlar taşıyabilir. Rüyada mahkeme görmek de bu kapsamda çoğu zaman adalet, hesap verme ve vicdani muhasebe ile ilişkili bir sembol olarak yorumlanır. Peki, rüyada mahkeme görmek ne anlama gelir? Bu rüya hangi mesajları barındırıyor olabilir?

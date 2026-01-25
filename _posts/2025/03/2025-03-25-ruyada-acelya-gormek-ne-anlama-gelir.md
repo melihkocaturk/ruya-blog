@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Açelya Görmek Ne Anlama Gelir?"
 description: "Açelya çiçeği rüyalarda görülebilecek özel sembollerden biridir. Peki, rüyada açelya görmek ne anlama gelir?"
+image: images/2025/03/ruyada-acelya-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın ve ruh halimizin yansımaları olarak hayatımızda önemli bir yer tutar. Çeşitli semboller ve imgeler içeren rüyalar, bazen iç dünyamızdan mesajlar taşır. Açelya çiçeği de rüyalarda görülebilecek özel sembollerden biridir. Peki, rüyada açelya görmek ne anlama gelir? İşte detaylı yorumları:

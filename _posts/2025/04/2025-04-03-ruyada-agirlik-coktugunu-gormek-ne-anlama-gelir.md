@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Ağırlık Çöktüğünü Görmek Ne Anlama Gelir?"
 description: "Bu tür rüyalar genellikle bilinçaltında biriken stres, korku veya baskının dışa vurumu olarak kabul edilir."
+image: images/2025/04/ruyada-agirlik-coktugunu-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın bizlere gönderdiği mesajlarla doludur. Rüyada ağırlık çöktüğünü görmek, birçok farklı anlam taşıyabilir ve kişinin ruh hâline, yaşadığı olaylara göre farklı şekillerde yorumlanabilir. Bu tür rüyalar genellikle bilinçaltında biriken stres, korku veya baskının dışa vurumu olarak kabul edilir.

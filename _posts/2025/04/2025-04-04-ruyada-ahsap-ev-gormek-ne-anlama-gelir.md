@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Ahşap Ev Görmek Ne Anlama Gelir?"
 description: "Rüyada ev görmek, kişinin iç dünyası, hayatındaki düzen ve güven ihtiyacıyla doğrudan ilişkilendirilir."
+image: images/2025/04/ruyada-ahsap-ev-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın sembollerle konuştuğu gizemli dünyalardır. Özellikle rüyada ev görmek, kişinin iç dünyası, hayatındaki düzen ve güven ihtiyacıyla doğrudan ilişkilendirilir. Peki, rüyada ahşap bir ev görmek ne anlama gelir? Bu rüya, hangi duygulara, olaylara ya da değişimlere işaret eder?

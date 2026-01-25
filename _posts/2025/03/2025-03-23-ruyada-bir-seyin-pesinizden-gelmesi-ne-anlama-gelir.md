@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Bir Şeyin Peşinizden Gelmesi Ne Anlama Gelir?"
 description: "Takip edilme veya bir şeyin peşinizden geldiğini görmek, en yaygın ve en rahatsız edici rüyalardan biridir."
+image: images/2025/03/ruyada-bir-seyin-pesinizden-gelmesi.jpg
 ---
 
 Rüyalar, bilinçaltımızın derinliklerinden gelen mesajlar olarak yorumlanabilir. Takip edilme veya bir şeyin peşinizden geldiğini görmek, en yaygın ve en rahatsız edici rüyalardan biridir. Peki, bu rüya ne anlama geliyor? Gerçek hayatta kaçtığınız bir durumun şu anki ruh halinizle bir ilgisi olabilir mi?

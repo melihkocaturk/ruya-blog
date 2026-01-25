@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Ahiret Görmek Ne Anlama Gelir?"
 description: "Bu tür rüyalar genellikle manevi anlamlar taşıyan, kişinin içsel dünyasına ve yaşam yolculuğuna dair mesajlar içeren sembolik anlatımlardır."
+image: images/2025/04/ruyada-ahiret-gormek-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, insan ruhunun derinliklerine inen, bazen geçmişten izler taşıyan, bazen de geleceğe dair işaretler barındıran gizemli yolculuklardır. Özellikle rüyada ahireti görmek, pek çok kişi için hem merak uyandırıcı hem de düşündürücü olabilir. Bu tür rüyalar genellikle manevi anlamlar taşıyan, kişinin içsel dünyasına ve yaşam yolculuğuna dair mesajlar içeren sembolik anlatımlardır.

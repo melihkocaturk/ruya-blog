@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Zamanın Hızlı Geçmesi Ne Anlama Gelir?"
 description: "Rüyanızda zamanın normalden daha hızlı aktığını görüyorsanız, bu bilinçaltınızın size verdiği bir uyarı olabilir."
+image: images/2025/03/ruyada-zamanin-hizli-gecmesi-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize mesajlar göndermesinin en etkili yollarından biridir. Özellikle rüya sırasında zaman algımızın değişmesi, önemli psikolojik ve duygusal durumlarla ilişkili olabilir.

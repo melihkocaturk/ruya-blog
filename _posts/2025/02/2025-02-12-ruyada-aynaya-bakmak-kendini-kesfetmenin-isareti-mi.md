@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Aynaya Bakmak: Kendini Keşfetmenin İşareti mi?"
 description: "Rüyada aynaya bakmak ne anlama gelir? Kendimizi tanıma yolculuğunda önemli bir işaret mi, yoksa sadece bilinçaltımızın bir yansıması mı?"
+image: images/2025/02/ruyada-aynaya-bakmak.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize mesajlar gönderdiği gizemli bir dünyadır. Bu rüyalardan biri de aynaya bakmak olabilir. Peki, rüyada aynaya bakmak ne anlama gelir? Kendimizi tanıma yolculuğunda önemli bir işaret mi, yoksa sadece bilinçaltımızın bir yansıması mı?

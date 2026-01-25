@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Ağaç Görmek Ne Anlama Gelir?"
 description: "Ağaçlar; kökleriyle geçmişi, gövdesiyle şimdiki zamanı, dalları ve yapraklarıyla ise geleceği temsil eder."
+image: images/2025/04/ruyada-agac-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın bizlere verdiği mesajlarla doludur. Rüyada ağaç görmek, farklı anlamlar taşıyan güçlü bir semboldür. Ağaçlar; kökleriyle geçmişi, gövdesiyle şimdiki zamanı, dalları ve yapraklarıyla ise geleceği temsil eder. Peki, rüyada ağaç görmek ne anlama gelir? İşte detaylar...

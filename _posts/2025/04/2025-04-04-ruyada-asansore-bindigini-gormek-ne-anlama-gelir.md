@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Asansöre Bindiğini Görmek Ne Anlama Gelir?"
 description: "Modern yaşamın sıradan bir parçası olan asansör, rüyalarda karşımıza çıktığında sıradanlıktan çıkar..."
+image: images/2025/04/ruyada-asansore-bindigini-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize fısıldadığı sembollerle doludur. Bu sembollerden biri de asansördür. Modern yaşamın sıradan bir parçası olan asansör, rüyalarda karşımıza çıktığında sıradanlıktan çıkar; duygularımızı, hayallerimizi, korkularımızı yansıtan güçlü bir metafora dönüşür. Peki, rüyanda bir asansöre binmek ne anlama geliyor olabilir?

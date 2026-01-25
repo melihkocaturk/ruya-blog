@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Yolda Yürümek: Doğru Yolda mısın?"
 description: "Rüyada yolda yürümek, kişinin hayat yolculuğundaki ilerleyişini, verdiği kararların doğruluğunu veya yeni başlangıçları simgeliyor olabilir."
+image: images/2025/03/ruyada-yolda-yurumek.jpg
 ---
 
 Rüyalar, bilinçaltımızın derinliklerinden gelen mesajlarla doludur. Rüyada yolda yürümek, kişinin hayat yolculuğundaki ilerleyişini, verdiği kararların doğruluğunu veya yeni başlangıçları simgeliyor olabilir. Peki, bu rüya ne anlama geliyor? Hangi detaylar, bu rüyanın anlamını değiştirebilir? Gelin, birlikte inceleyelim.

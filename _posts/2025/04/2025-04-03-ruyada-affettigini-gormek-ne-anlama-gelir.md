@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Affettiğini Görmek Ne Anlama Gelir?"
 description: "Rüyada birini affettiğini görmek, çoğu zaman ruhsal bir arınmaya, iç huzura ve geçmişle barışmaya işaret eder."
+image: images/2025/04/ruyada-affettigini-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın en derin mesajlarını taşıyan gizemli deneyimlerdir. Rüyada birini affettiğini görmek, çoğu zaman ruhsal bir arınmaya, iç huzura ve geçmişle barışmaya işaret eder. Ancak rüyanın tam yorumu, rüyanın detaylarına ve rüya sahibinin yaşamındaki mevcut durumlara göre değişebilir.

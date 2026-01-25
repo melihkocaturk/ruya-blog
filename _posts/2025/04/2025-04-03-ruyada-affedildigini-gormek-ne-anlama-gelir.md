@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Affedildiğini Görmek Ne Anlama Gelir?"
 description: "Rüyada affedildiğini görmek genellikle psikolojik, spiritüel ve duygusal anlamlar taşıyan bir deneyimdir."
+image: images/2025/04/ruyada-affedildigini-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın ve ruh halimizin bir yansıması olarak kabul edilir. Rüyada affedildiğini görmek de genellikle psikolojik, spiritüel ve duygusal anlamlar taşıyan bir deneyimdir. Bu rüyanın yorumu kişinin yaşadığı olaylara, içsel dünyasına ve ruhsal durumuna göre farklılık gösterebilir.

@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Sınava Girmek Ne Anlama Gelir?"
 description: "Bu rüyalar, sadece başarı kaygısını mı yansıtır, yoksa hayatın bize sunduğu çeşitli sınavlara bir gönderme mi yapar?"
+image: images/2025/03/ruyada-sinava-girmek.jpg
 ---
 
 Rüyalar, bilinçaltımızın derinliklerinden gelen mesajları barındırır. Günlük yaşantımızda karşılaştığımız stres, kaygılar ve beklentiler, rüyalarımıza yansıyabilir. Bu bağlamda, sınav rüyaları da oldukça yaygındır. Peki, rüyada sınava girmek ne anlama gelir? Bu rüyalar, sadece başarı kaygısını mı yansıtır, yoksa hayatın bize sunduğu çeşitli sınavlara bir gönderme mi yapar?

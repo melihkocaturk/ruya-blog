@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Doğal Afet Görmek: Anlamlar ve Yorumlar"
 description: "Rüyada deprem, sel, fırtına ya da yangın gibi doğal afetler görmek genellikle psikolojik, ruhsal veya yaşamımızda yaşanan ani değişimlerle ilişkilendirilebilir."
+image: images/2025/04/ruyada-dogal-afet-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize mesajlar verdiği gizemli dünyalardır. Doğal afetler ise gerçek hayatta endişe verici ve yıkıcı olaylar olduğu kadar, rüya dünyasında da derin anlamlar taşır. Rüyada deprem, sel, fırtına ya da yangın gibi doğal afetler görmek genellikle psikolojik, ruhsal veya yaşamımızda yaşanan ani değişimlerle ilişkilendirilebilir. Peki, bu rüyalar ne anlama gelir?
