@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Abajur Görmek Ne Anlama Gelir?"
 description: "Rüyanızda bir abajur görmek neyi ifade eder? İşte detaylı açıklamalar..."
+image: images/2025/03/ruyada-abajur-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın yansıması olduğu kadar, geleceğe dair mesajlar da içerebilir. Rüyada abajur görmek, farklı anlamlar taşıyan sembollerden biridir. Peki, rüyanızda bir abajur görmek neyi ifade eder? İşte detaylı açıklamalar...

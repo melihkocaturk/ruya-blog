@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Bir Şeyi Unutmak: Bilinçaltındaki Baskılar mı?"
 description: "Rüyanızda önemli bir şeyi unuttuğunuzu görmek ne anlama gelir?"
+image: images/2025/03/ruyada-bir-seyi-unutmak.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize mesajlar verdiği gizemli dünyalardır. Günlük yaşantımızda farkında olmadığımız duygular, kaygılar ve bastırılmış düşünceler rüyalarda kendini gösterebilir. Peki, rüyanızda önemli bir şeyi unuttuğunuzu görmek ne anlama gelir? Bu tür rüyalar, zihnimizde saklı kalan baskılar veya sorumluluklardan kaçma isteğimizin bir yansıması olabilir mi?

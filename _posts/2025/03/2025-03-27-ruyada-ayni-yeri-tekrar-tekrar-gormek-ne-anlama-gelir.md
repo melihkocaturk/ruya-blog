@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Aynı Yeri Tekrar Tekrar Görmek Ne Anlama Gelir?"
 description: "Bazen rüyalarımızda aynı mekânı defalarca gördüğümüzü fark ederiz. Bir ev, bir sokak, bir okul ya da tamamen hayali bir yer..."
+image: images/2025/03/ruyada-ayni-yeri-tekrar-tekrar-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize mesajlar ilettiği gizemli dünyalardır. Bazen rüyalarımızda aynı mekânı defalarca gördüğümüzü fark ederiz. Bir ev, bir sokak, bir okul ya da tamamen hayali bir yer... Peki, bu tekrar eden rüyalar ne anlama gelir? Hayatımızda gerçekten bir zaman döngüsüne mi sıkıştık?

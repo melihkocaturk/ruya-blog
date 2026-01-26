@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Açgözlülük Ne Anlama Gelir?"
 description: "Rüyada açgözlü birini görmek ya da kendini açgözlü olarak rüyada deneyimlemek ne anlama gelir?"
+image: images/2025/03/ruyada-acgozluluk-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın bir yansıması olarak pek çok farklı anlama gelebilir. Rüyada açgözlülük görmek, genellikle kişinin içsel çatışmalarını, hırslarını ve doyumsuzluk hissini simgeler. Peki, rüyada açgözlü birini görmek ya da kendini açgözlü olarak rüyada deneyimlemek ne anlama gelir? İşte detaylar.

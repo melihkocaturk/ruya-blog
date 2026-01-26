@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Tren Görmek Ne Anlama Gelir?"
 description: "Tren, yolculuk ve değişimi simgelediğinden, kişinin hayatında yeni bir dönemin başlangıcı olarak yorumlanbilir."
+image: images/2025/02/ruyada-tren-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize sunduğu gizemli mesajlarla doludur. Tren rüyaları da bu anlamda önemli semboller taşır. Genellikle hayat yolculuğunu, hedeflere ulaşma sürecini veya önemli değişim ve dönüşümleri simgeler. Peki, rüyada tren görmek ne anlama gelir? İşte detayları...

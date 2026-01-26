@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Aday Olduğunu Görmek Ne Anlama Gelir?"
 description: "Rüyada kendini bir şeyin adayı olarak görmek, kişinin hayatında önemli kararlar alabileceği, kendini kanıtlamak isteyebileceği ya da yeni bir sorumluluk üstlenebileceği anlamına gelebilir."
+image: images/2025/03/ruyada-aday-oldugunu-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın ve duygularımızın bir yansıması olarak farklı anlamlar taşıyabilir. Rüyada kendini bir şeyin adayı olarak görmek, kişinin hayatında önemli kararlar alabileceği, kendini kanıtlamak isteyebileceği ya da yeni bir sorumluluk üstlenebileceği anlamına gelebilir. Peki, bu rüya neye işaret eder? Gelin, birlikte inceleyelim.

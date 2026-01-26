@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Gizli Bir Oda Keşfetmek Ne Anlama Gelir?"
 description: "Rüyada gizli bir oda keşfetmek, kişinin kendisiyle ilgili farkına varmadığı yönlerini veya saklı potansiyellerini temsil eden güçlü bir semboldür."
+image: images/2025/03/ruyada-gizli-bir-oda-kesfetmek.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize mesajlar verdiği gizemli dünyalardır. Özellikle rüyada bilinmeyen bir oda keşfetmek, kişinin kendisiyle ilgili farkına varmadığı yönlerini veya saklı potansiyellerini temsil eden güçlü bir semboldür. Peki, bu tür bir rüya ne anlama gelir? İç dünyamızda neler saklı olabilir?

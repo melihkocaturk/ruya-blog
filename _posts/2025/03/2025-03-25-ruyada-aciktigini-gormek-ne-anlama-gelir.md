@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Acıktığını Görmek Ne Anlama Gelir?"
 description: "Bu yazıda, rüyada acıktığını görmenin farklı yorumlarını ele alacağız."
+image: images/2025/03/ruyada-aciktigini-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın yansımaları olarak bizlere farklı mesajlar iletebilir. Günlük hayatımızdaki duygular, düşünceler ve olaylar, rüyalarımıza farklı sembollerle yansıyabilir. Rüyada acıktığını görmek de bu sembollerden biridir ve farklı anlamlar içerebilir.
