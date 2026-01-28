@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Karanlıkta Kalmak: Bilinmeyen Korkular mı?"
 description: "Rüyada karanlıkta kalmak ne anlama gelir? Bu tür rüyalar bilinmeyen korkularımızın bir yansıması olabilir mi?"
+image: images/2025/03/ruyada-karanlikta-kalmak.jpg
 ---
 
 Rüyalar, bilinçaltımızın derinliklerinden gelen mesajları ve duygularımızı yansıtan gizemli bir dünyadır. Kimi zaman aydınlık, huzurlu rüyalar görsek de, bazen kendimizi karanlıkta mahsur kalmış halde bulabiliriz. Peki, rüyada karanlıkta kalmak ne anlama gelir? Bu tür rüyalar gerçekten bilinmeyen korkularımızın bir yansıması olabilir mi?

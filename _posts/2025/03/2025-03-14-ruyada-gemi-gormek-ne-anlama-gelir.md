@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Gemi Görmek Ne Anlama Gelir?"
 description: "Rüyada gemi görmek hayat yolculuğunu mu simgeler, yoksa yeni maceralara yelken açmanın bir işareti midir?"
+image: images/2025/03/ruyada-gemi-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın derinliklerinden gelen mesajlar taşıyan önemli sembollerden oluşur. Rüya yorumları, hayatımızda karşılaştığımız olaylara dair farkındalık kazanmamıza yardımcı olabilir. Peki, rüyada gemi görmek ne anlama gelir? Bir hayat yolculuğunu mu simgeler, yoksa yeni maceralara yelken açmanın bir işareti midir?

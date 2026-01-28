@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Kaplumbağa Görmek: Sabır mı, Gecikmiş Fırsatlar mı?"
 description: "Rüyada kaplumbağa görmek ne anlama gelir? Gelin, bu ilginç sembolü birlikte inceleyelim."
+image: images/2025/03/ruyada-kaplumbaga-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın derinliklerinden gelen mesajlar olarak görülür ve her bir sembol, farklı anlamlar içerebilir. Kaplumbağa da bu sembollerden biridir. Peki, rüyada kaplumbağa görmek ne anlama gelir? Sabır ve dayanıklılık mı, yoksa kaçırılmış fırsatlar mı? Gelin, bu ilginç sembolü birlikte inceleyelim.

@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Birini Kurtarmak Ne Anlama Gelir?"
 description: "Bu rüya fedakarlığınızın bir yansıması mı, yoksa kendi içsel yolculuğunuzda bir dönüm noktasını mı temsil ediyor?"
+image: images/2025/03/ruyada-birini-kurtarmak.jpg
 ---
 
 Rüyalar, bilinçaltımızın mesajlarını bizlere ileten gizemli anlatılar olarak kabul edilir. Özellikle "birini kurtarmak" gibi kahramanca eylemler içeren rüya senaryoları, çoğu zaman derin anlamlar taşır. Peki, bu tür rüya gördüyünüzde bunun anlamı ne olabilir? Bu rüya fedakarlığınızın bir yansıması mı, yoksa kendi içsel yolculuğunuzda bir dönüm noktasını mı temsil ediyor?

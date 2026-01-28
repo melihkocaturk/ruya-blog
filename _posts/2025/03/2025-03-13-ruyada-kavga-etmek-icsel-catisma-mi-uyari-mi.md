@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Kavga Etmek: İçsel Çatışma mı, Uyarı mı?"
 description: "Rüyada kavga etmek ne anlama gelir? Bu, içsel çatışmalarımızı mı simgeler, yoksa başka bir anlam taşır mı?"
+image: images/2025/03/ruyada-kavga-etmek.jpg
 ---
 
 Rüyalar, bilinçaltımızın derinliklerine açılan bir pencere gibidir. Çoğu zaman uyanıkken fark etmediğimiz ya da göz ardı ettiğimiz duygular ve düşünceler, rüya dünyasında yüzeye çıkar. Rüyada biriyle kavga etmek, sıkça karşılaşılan ve çeşitli yorumları olan bir durumdur. Peki, rüyada kavga etmek ne anlama gelir? Bu, içsel çatışmalarımızı mı simgeler, yoksa başka bir anlam taşır mı? İşte kavga rüyalarının anlamları üzerine bir inceleme.

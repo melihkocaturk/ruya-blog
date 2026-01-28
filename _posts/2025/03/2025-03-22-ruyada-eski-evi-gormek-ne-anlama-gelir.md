@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Eski Evi Görmek Ne Anlama Gelir?"
 description: "Rüyada eski evimizi görmek, nostalji, unutulmuş anılar veya tamamlanmamış meselelerle ilişkilendirilebilir."
+image: images/2025/03/ruyada-eski-evi-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize mesajlar göndermesinin en etkileyici yollarından biridir. Özellikle eski evimizi görmek, nostalji, unutulmuş anılar veya tamamlanmamış meselelerle ilişkilendirilebilir. Peki, rüyada eski evi görmek ne anlama gelir? Geçmişle hesaplaşma mı, yoksa bir özlem mi?

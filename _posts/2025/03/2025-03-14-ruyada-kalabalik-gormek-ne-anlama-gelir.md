@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Kalabalık Görmek Ne Anlama Gelir?"
 description: "Bu rüya yalnızlık korkusunun bir yansıması mı yoksa hareketli bir sosyal hayatın habercisi mi?"
+image: images/2025/03/ruyada-kalabalik-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize mesaj göndermesinin en etkileyici yollarından biridir. Özellikle kalabalık görmek, kişinin sosyal yaşamı, psikolojik durumu ve bilinçaltındaki arzuları hakkında önemli ipuçları barındırabilir. Peki, rüyada kalabalık görmek ne anlama gelir? Bu, yalnızlık korkusunun bir yansıması mı yoksa hareketli bir sosyal hayatın habercisi mi?

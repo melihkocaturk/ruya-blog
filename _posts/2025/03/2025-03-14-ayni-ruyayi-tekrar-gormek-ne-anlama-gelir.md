@@ -2,6 +2,7 @@
 layout: post
 title: "Aynı Rüyayı Tekrar Görmek Ne Anlama Gelir?"
 description: "Bu durumun bir anlamı olabilir mi? Evren ya da bilinçaltımız bize bir mesaj mı vermeye çalışıyor?"
+image: images/2025/03/ayni-ruyayi-tekrar-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın en derin katmanlarından gelen mesajları içerebilir. Kimi zaman unutulup giden anıları, kimi zaman ise gün içinde yaşadığımız olayların bir yansımasını rüyalarda görebiliriz. Ancak bazı rüyalar vardır ki, sürekli olarak tekrar eder. Peki, bu durumun bir anlamı olabilir mi? Evren ya da bilinçaltımız bize bir mesaj mı vermeye çalışıyor?
