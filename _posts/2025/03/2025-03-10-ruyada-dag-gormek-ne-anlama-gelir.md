@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Dağ Görmek Ne Anlama Gelir?"
 description: "Rüyada dağ görmek büyük hedeflere ulaşmanın bir işareti mi, yoksa aşılması gereken zorlukların bir yansıması mı?"
+image: images/2025/03/ruyada-dag-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın derinliklerinden gelen mesajları taşır. Özellikle doğa unsurlarının rüyalarda belirmesi, güçlü semboller içerir. Bunlardan biri de dağdır. Peki, rüyada dağ görmek ne anlama gelir? Büyük hedeflere ulaşmanın bir işareti mi, yoksa aşılması gereken zorlukların bir yansıması mı?

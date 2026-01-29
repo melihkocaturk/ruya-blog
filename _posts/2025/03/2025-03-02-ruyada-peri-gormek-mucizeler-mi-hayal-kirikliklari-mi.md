@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Peri Görmek: Mucizeler mi, Hayal Kırıklıkları mı?"
 description: "Rüyada bir peri görmek ne anlama gelir? Gerçekten mucizelerin habercisi midir, yoksa hayal kırıklıklarının bir yansıması mı?"
+image: images/2025/03/ruyada-peri-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize sunduğu gizemli mesajlarla doludur. Zaman zaman bu rüyalarda fantastik varlıklarla karşılaşabiliriz. İşte bu varlıklardan biri de periler! Rüyada bir peri görmek ne anlama gelir? Gerçekten mucizelerin habercisi midir, yoksa hayal kırıklıklarının bir yansıması mı?

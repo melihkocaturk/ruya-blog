@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Gözlük Takmak Ne Anlama Gelir?"
 description: "Rüyada gözlük takmak, bazen gerçeği daha net görmek anlamına gelirken bazen de bir şeyleri saklamak veya farklı göstermekle ilişkilendirilebilir."
+image: images/2025/02/ruyada-gozluk-takmak.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize sunduğu gizemli mesajlarla doludur. Günlük hayatımızda sıkça kullandığımız objeler bile rüyalarda farklı anlamlar taşıyabilir. Bunlardan biri de gözlüktür. Rüyada gözlük takmak, bazen gerçeği daha net görmek anlamına gelirken bazen de bir şeyleri saklamak veya farklı göstermekle ilişkilendirilebilir. Peki, rüyada gözlük görmek ne anlama gelir?

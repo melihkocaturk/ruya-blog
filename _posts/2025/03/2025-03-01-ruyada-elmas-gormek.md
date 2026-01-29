@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Elmas Görmek: Değerli Bir Keşif mi, Sahte Bir Parıltı mı?"
 description: "Rüyada elmas görmek genellikle büyük bir kazancı, değeri ve nadir bulunan güzellikleri simgeler."
+image: images/2025/03/ruyada-elmas-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın derinliklerinden gelen mesajları barındıran gizemli yolculuklardır. Rüyada elmas görmek ise genellikle büyük bir kazancı, değeri ve nadir bulunan güzellikleri simgeler. Ancak bu değerli taş, her zaman gerçek bir keşif mi yoksa aldatıcı bir parlaklık mı sunar? İşte rüyanızın anlamına dair olası yorumlar.

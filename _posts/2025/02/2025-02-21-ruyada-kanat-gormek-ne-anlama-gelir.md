@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Kanat Görmek Ne Anlama Gelir?"
 description: "Rüyada kanat görmek, özgürlüğe duyulan özlemle mi ilgilidir, yoksa manevi bir yükselişin habercisi midir?"
+image: images/2025/02/ruyada-kanat-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın derinliklerinden gelen mesajlarla doludur. Rüyada kanat görmek ise sıkça karşılaşılan ve farklı anlamlar barındıran sembollerden biridir. Bu rüya, özgürlüğe duyulan özlemle mi ilgilidir, yoksa manevi bir yükselişin habercisi midir? Gelin, bu rüyanın olası anlamlarını birlikte inceleyelim.

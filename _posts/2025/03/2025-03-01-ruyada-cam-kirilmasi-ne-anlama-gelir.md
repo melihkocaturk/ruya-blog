@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Cam Kırılması Ne Anlama Gelir?"
 description: "Rüyada cam kırılması, kişinin kırılganlığını mı yoksa özgürleşmesini mi ifade eder?"
+image: images/2025/03/ruyada-cam-kirilmasi-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın bizlere mesajlar gönderdiği özel alanlardır. Rüyada cam kırıldığını görmek, birçok farklı anlama gelebilir. Cam, şeffaflığı, kırılganlığı ve hassasiyeti temsil ederken, aynı zamanda bir engel veya sınır olarak da yorumlanabilir. Peki, camın kırılması ne anlama gelir? Bu, kişinin kırılganlığını mı yoksa özgürleşmesini mi ifade eder?

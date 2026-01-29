@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Balık Görmek: Bereket mi, İçsel Farkındalık mı?"
 description: "Rüyada balık görmek ne anlama gelir? Bereketin bir işareti midir, yoksa içsel farkındalığa dair ipuçları mı sunar?"
+image: images/2025/02/ruyada-balik-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize gönderdiği mesajlarla dolu gizemli dünyalardır. Özellikle doğayla ve suyla ilişkili semboller, derin anlamlar barındırabilir. Bu sembollerden biri de balıktır. Peki, rüyada balık görmek ne anlama gelir? Bereketin bir işareti midir, yoksa içsel farkındalığa dair ipuçları mı sunar?

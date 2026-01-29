@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Mezarlık Görmek: Geçmişle Yüzleşme mi?"
 description: "Rüyada mezarlık görmek ne anlama gelir? Bu tür rüyalar geçmişle yüzleşme, bir dönemin kapanışı veya içsel huzur arayışıyla ilgili olabilir mi?"
+image: images/2025/02/ruyada-mezarlik-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın en derin köşelerinden gelen mesajları barındırır. Özellikle mezarlık görmek gibi sembolik imgeler, rüya sahibinin psikolojik durumuna ve yaşadığı olaylara dair ipuçları sunar. Peki, rüyada mezarlık görmek ne anlama gelir? Bu tür rüyalar geçmişle yüzleşme, bir dönemin kapanışı veya içsel huzur arayışıyla ilgili olabilir mi? İşte bu mistik rüya sembolüne dair olası yorumlar:

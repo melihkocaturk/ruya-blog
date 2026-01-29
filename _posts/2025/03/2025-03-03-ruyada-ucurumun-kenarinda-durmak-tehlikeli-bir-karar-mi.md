@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Uçurumun Kenarında Durmak: Tehlikeli Bir Karar mı?"
 description: "Bu rüya gerçekten tehlikeli bir kararı mı temsil ediyor, yoksa bir uyarı niteliğinde mi?"
+image: images/2025/03/ruyada-ucurumun-kenarinda-durmak.jpg
 ---
 
 Rüyalar, bilinçaltımızın bizlere gönderdiği mesajları içeren gizemli dünyalardır. Uçurum rüyaları da bu mesajların en çarpıcı olanlarından biridir. Uçurumun kenarında durmak, genellikle kişinin hayatında önemli bir dönüm noktasına geldiğini, kritik bir karar aşamasında olduğunu veya büyük bir değişimin eşiğinde bulunduğunu simgeler. Peki, bu rüya gerçekten tehlikeli bir kararı mı temsil ediyor, yoksa bir uyarı niteliğinde mi?

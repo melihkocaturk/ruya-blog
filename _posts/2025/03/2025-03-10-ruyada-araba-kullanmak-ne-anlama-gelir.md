@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Araba Kullanmak Ne Anlama Gelir?"
 description: "Bu rüya, hayatınızı ne kadar kontrol ettiğinizi mi gösteriyor?"
+image: images/2025/03/ruyada-araba-kullanmak.jpg
 ---
 
 Rüyalar, bilinçaltımızın bizlere mesaj gönderdiği gizemli dünyalardır. Rüyada araba kullanmak da bu mesajlardan biridir ve genellikle kişinin hayatının kontrolünü nasıl ele aldığına dair ipuçları verir. Peki, rüyada araba kullanmak ne anlama gelir? Bu rüya, hayatınızı ne kadar kontrol ettiğinizi mi gösteriyor?

@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Şimşek Çakması Ne Anlama Gelir?"
 description: "Rüyada şimşek çakması bir farkındalık anını mı simgeler, yoksa yaklaşan bir tehlikenin habercisi midir?"
+image: images/2025/03/ruyada-simsek-cakmasi-ne-anlama-gelir.jpg
 ---
 
 Rüyalar, bilinçaltımızın mesajlarını içeren gizemli dünyalardır. Özellikle doğa olaylarının rüyalardaki yansımaları, güçlü semboller taşır. Şimşek çakması da bu sembollerden biridir. Peki, rüyada şimşek çakması ne anlama gelir? Bu ani ışık parlaması, bir farkındalık anını mı simgeler, yoksa yaklaşan bir tehlikenin habercisi midir?

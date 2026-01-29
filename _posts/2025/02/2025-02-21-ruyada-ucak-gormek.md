@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Uçak Görmek: Büyük Hedefler mi, Kaçış mı?"
 description: "Rüyada uçak görmek, sık rastlanan ve çeşitli anlamlara gelebilecek bir durumdur. Bu rüyalar bazen yüksek hedefler peşinde koştuğunuzu, bazen de mevcut bir durumdan kaçış arzusunu ifade edebilir."
+image: images/2025/02/ruyada-ucak-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize gönderdiği özel mesajlardır ve genellikle duygu durumumuz, düzensiz düşüncelerimiz ya da özlemlerimizle ilgili ipuçları taşırlar. Rüyada uçak görmek, sık rastlanan ve çeşitli anlamlara gelebilecek bir durumdur. Bu rüyalar bazen yüksek hedefler peşinde koştuğunuzu, bazen de mevcut bir durumdan kaçış arzusunu ifade edebilir. Peki, sizin rüyanızdaki uçak hangi anlamı taşıyor olabilir?

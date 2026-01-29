@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Ünlü Birini Görmek Ne Anlama Gelir?"
 description: "Bu rüyalar hayranlıktan mı kaynaklanıyor yoksa aslında kendimizi kanıtlama isteğimizin bir yansıması mı?"
+image: images/2025/03/ruyada-unlu-birini-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın derinliklerinden gelen mesajları çözmemize yardımcı olan gizemli deneyimlerdir. Ünlü birini rüyada görmek ise genellikle kişinin hayalleri, beklentileri ve iç dünyasıyla ilgili ipuçları sunar. Peki, bu rüyalar hayranlıktan mı kaynaklanıyor yoksa aslında kendimizi kanıtlama isteğimizin bir yansıması mı?

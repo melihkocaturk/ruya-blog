@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Köprü Görmek: Geçiş Süreci mi, Kararsızlık mı?"
 description: "Rüyada köprü görmek ne anlama gelir? Bir geçiş sürecini mi işaret eder, yoksa kararsızlığımızı mı yansıtır?"
+image: images/2025/02/ruyada-kopru-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın derinliklerinden gelen mesajlarla doludur. Bu mesajlar bazen doğrudan anlam taşısa da, çoğu zaman semboller aracılığıyla bize ulaşır. Köprü de bu sembollerden biridir ve rüyalarda sıkça karşılaşılan imgelerden biri olarak dikkat çeker. Peki, rüyada köprü görmek ne anlama gelir? Bir geçiş sürecini mi işaret eder, yoksa kararsızlığımızı mı yansıtır?

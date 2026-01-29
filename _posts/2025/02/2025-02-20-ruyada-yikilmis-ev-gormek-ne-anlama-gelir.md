@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Yıkılmış Ev Görmek Ne Anlama Gelir?"
 description: "Bu yazıda, rüyada yıkılmış ev görmenin farklı yorumlarına ve olası anlamlarına yer vereceğiz."
+image: images/2025/02/ruyada-yikilmis-ev-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın mesajlarını içeren gizemli dünyalardır. Rüyada yıkılmış bir ev görmek, genellikle önemli bir anlam taşır ve rüya sahibinin hayatında yaşadığı dönüşümleri temsil edebilir. Bu yazıda, rüyada yıkılmış ev görmenin farklı yorumlarına ve olası anlamlarına yer vereceğiz.

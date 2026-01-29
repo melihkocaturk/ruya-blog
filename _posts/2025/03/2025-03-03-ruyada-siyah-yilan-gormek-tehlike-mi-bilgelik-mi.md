@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Siyah Yılan Görmek: Tehlike mi, Bilgelik mi?"
 description: "Rüyada siyah yılan görmek ne anlama gelir? Tehlikeyi mi yoksa bilgeliği mi ifade eder?"
+image: images/2025/03/ruyada-siyah-yilan-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize mesajlar gönderdiği gizemli alanlardan biridir. Rüyalarda görülen semboller, kişisel deneyimlere ve kültürel inançlara göre farklı anlamlar taşıyabilir. Siyah yılan da bu sembollerden biridir ve birçok farklı yoruma sahiptir. Peki, rüyada siyah yılan görmek gerçekten tehlike mi yoksa bilgelik mi ifade eder?

@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Sandık Görmek: Gizli Sırlar mı, Büyük Sürprizler mi?"
 description: "Rüyada sandık görmek ne anlama gelir? Bu, saklanan duyguların, gizli sırların veya büyük sürprizlerin bir habercisi olabilir mi?"
+image: images/2025/03/ruyada-sandik-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın bizlere mesajlar gönderdiği özel alanlardır. Günlük hayatımızda fark etmediğimiz ya da bilinçli olarak görmezden geldiğimiz duygular, bazen rüyalar aracılığıyla su yüzünü çıkarabilir. Peki, rüyada sandık görmek ne anlama gelir? Bu, saklanan duyguların, gizli sırların veya büyük sürprizlerin bir habercisi olabilir mi?

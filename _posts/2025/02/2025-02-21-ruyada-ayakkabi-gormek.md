@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Ayakkabı Görmek: Yeni Yolculuklar mı, Ayrılıklar mı?"
 description: "Rüyada ayakkabı görmek ne anlama gelir? Yeni başlangıçlara mı işaret eder, yoksa bir vedayı mı simgeler?"
+image: images/2025/02/ruyada-ayakkabi-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize mesajlar ilettiği gizemli alanlardır. Çoğu zaman gördüğümüz rüyalar, hayatımızda olup bitenler veya iç dünyamızdaki değişimlerle ilgilidir. Rüyada ayakkabı görmek de bu türden sembollerle dolu bir rüyadır ve birçok farklı anlama gelebilir. Peki, rüyada ayakkabı görmek ne anlama gelir? Yeni başlangıçlara mı işaret eder, yoksa bir vedayı mı simgeler? İşte bu konuda farklı yorumlar ve detaylar:

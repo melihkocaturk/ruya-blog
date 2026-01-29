@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Ayna Kırılması: Uğursuzluk mu, Yeniden Doğuş mu?"
 description: "Rüyada ayna kırılması gerçekten uğursuzluk mu getirir, yoksa yeni bir başlangıcın habercisi midir?"
+image: images/2025/03/ruyada-ayna-kirilmasi.jpg
 ---
 
 Rüyalar, bilinçaltımızın bizlere sunduğu gizemli mesajlarla doludur. İnsanlık tarihi boyunca rüyalar, farklı kültürlerde farklı anlamlar taşımış, bazen korkutucu bazen de umut verici yorumlarla karşılanmıştır. Rüyada ayna kırılması da bu bağlamda oldukça dikkat çekici bir semboldür. Peki, rüyada ayna kırılması gerçekten uğursuzluk mu getirir, yoksa yeni bir başlangıcın habercisi midir?

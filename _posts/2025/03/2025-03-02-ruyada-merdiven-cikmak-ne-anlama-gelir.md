@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Merdiven Çıkmak Ne Anlama Gelir?"
 description: "Rüyada merdiven çıkmak başarıya mı, yoksa zorluklara mı işaret eder?"
+image: images/2025/03/ruyada-merdiven-cikmak.jpg
 ---
 
 Rüyalar, bilinçaltımızın bir yansıması olarak hayatımızda önemli bir yer tutar. Rüyada merdiven çıkmak, en yaygın ve anlam yüklenebilen rüyalardan biridir. Peki, bu rüya başarıya mı, yoksa zorluklara mı işaret eder?

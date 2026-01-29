@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Gökkuşağı Görmek Ne Anlama Gelir?"
 description: "Rüyada gökkuşağı görmek ne anlama gelir? Bir umut ışığı mı, yoksa manevi bir işaret mi?"
+image: images/2025/02/ruyada-gokkusagi-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın ve ruhsal dünyamızın bir yansıması olarak kabul edilir. Özellikle doğa olaylarının rüyalarda belirmesi, çoğu zaman güçlü sembollerle ilişkilendirilir. Gökkuşağı da bu sembollerden biridir ve genellikle umut, yenilenme ve ilahi mesajlarla bağdaştırılır. Peki, rüyada gökkuşağı görmek ne anlama gelir? Bir umut ışığı mı, yoksa manevi bir işaret mi?

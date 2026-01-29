@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Çamur Görmek: Zorluklar mı, Ruhsal Arınma mı?"
 description: "Rüyada çamur görmek hayatımızdaki engelleri mi, yoksa ruhsal arınmayı mı simgeliyor?"
+image: images/2025/03/ruyada-camur-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize mesajlar verdiği gizemli dünyalardır. Çoğu zaman gördüğümüz imgeler, iç dünyamızda yaşadığımız duygu ve düşüncelerin yansımalarıdır. Rüyada çamur görmek de, farklı anlamlar taşıyan güçlü sembollerden biridir. Peki, çamur görmek hayatımızdaki engelleri mi, yoksa ruhsal arınmayı mı simgeliyor?
