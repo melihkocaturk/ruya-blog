@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Birinin Beni Kovaladığını Görmek: Kaçtığın Bir Şey mi Var?"
 description: "Rüyada kovalandığınızı görmek ne anlama gelir? Gerçekte bir şeylerden mi kaçıyoruz?"
+image: images/2025/02/ruyada-birinin-beni-kovaladigini-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize mesajlar göndermek için kullandığı en etkili yollardan biridir. Kimi zaman huzurlu ve keyifli sahnelerle dolu olurken, bazen de endişe verici, hatta korkutucu olabilirler. Özellikle birinin bizi kovaladığını gördüğümüz rüyalar, çoğu kişi için rahatsız edici bir deneyimdir. Peki, bu rüya ne anlama gelir? Gerçekte bir şeylerden mi kaçıyoruz?

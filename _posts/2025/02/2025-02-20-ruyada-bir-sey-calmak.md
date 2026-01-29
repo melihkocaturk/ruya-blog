@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Bir Şey Çalmak: Gizli Arzular mı?"
 description: "Rüyanızda bir şey çaldığınızı görmek ne anlama gelir? Bu, bilinçaltınızın size vermeye çalıştığı bir mesaj olabilir mi?"
+image: images/2025/02/ruyada-bir-sey-calmak.jpg
 ---
 
 Rüyalar, bilinçaltımızın derinliklerinden gelen mesajlar olarak kabul edilir. Kimi zaman korkularımızı, kimi zaman ise bastırdığımız arzularımızı yansıtırlar. Peki, rüyanızda bir şey çaldığınızı görmek ne anlama gelir? Bu, bilinçaltınızın size vermeye çalıştığı bir mesaj olabilir mi?

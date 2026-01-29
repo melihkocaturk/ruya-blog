@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Yanan Ev Görmek Ne Anlama Gelir?"
 description: "Rüyada yanan bir ev görmek, oldukça etkileyici ve korkutucu bir deneyim olabilir. Peki, bu rüya ne anlama gelir?"
+image: images/2025/02/ruyada-yanan-ev-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın yansımalarıdır ve bazen bize önemli mesajlar verir. Rüyada yanan bir ev görmek, oldukça etkileyici ve korkutucu bir deneyim olabilir. Peki, bu rüya ne anlama gelir? İşte detaylı bir yorum:

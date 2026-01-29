@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Anneyi Görmek: Korunma mı, İçsel Rehberlik mi?"
 description: "Anneyi rüyada görmek genellikle sıcaklık, güven ve korunma hissiyle ilişkilendirilir."
+image: images/2025/02/ruyada-anneyi-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize mesajlar ilettiği gizemli dünyalardır. Özellikle sevdiklerimizi rüyalarımızda görmek, derin anlamlar taşıyabilir. Anneyi rüyada görmek ise genellikle sıcaklık, güven ve korunma hissiyle ilişkilendirilir. Peki, bu rüyalar gerçekten sadece bir güven duygusunu mu yansıtıyor, yoksa içsel rehberlik mesajları mı içeriyor?

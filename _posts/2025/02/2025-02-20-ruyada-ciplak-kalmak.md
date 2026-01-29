@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Çıplak Kalmak: Anlamı ve Yorumu"
 description: "Rüyada çıplak kalmanın anlamı nedir? Bu rüya neye işaret eder?"
+image: images/2025/02/ruyada-ciplak-kalmak.jpg
 ---
 
 Rüyalar, bilinçaltımızın birer yansımasıdır ve günlük yaşantımızla, duygularımızla doğrudan bağlantılıdır. Bazı rüyalar bizi huzursuz edebilir, hatta utanç duygusuna neden olabilir. "Rüyada çıplak kalmak" da bu türden bir rüyadır ve pek çok kişi için endişe verici olabilir. Peki, rüyada çıplak kalmanın anlamı nedir? Bu rüya neye işaret eder?

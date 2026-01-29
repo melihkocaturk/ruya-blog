@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Telefon Görmek: Haber mi, İletişim Eksikliği mi?"
 description: "Rüyada telefon görmek ne anlama gelir? Bu, önemli bir haberin habercisi mi, yoksa iletişim eksikliğinin bir yansıması mı?"
+image: images/2025/02/ruyada-telefon-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize mesajlar gönderdiği gizemli dünyalardır. Günlük hayatta sıkça kullandığımız nesnelerden biri olan telefon da rüyalarda farklı anlamlar taşıyabilir. Peki, rüyada telefon görmek ne anlama gelir? Bu, önemli bir haberin habercisi mi, yoksa iletişim eksikliğinin bir yansıması mı?

@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Birinin Ağladığını Görmek: Empati mi, Uyarı mı?"
 description: "Rüyanızda birinin ağladığını gördüyseniz, bu ne anlama gelir? Empati mi yapıyorsunuz, yoksa bilinçaltınız sizi bir konuda uyarıyor mu?"
+image: images/2025/02/ruyada-birinin-agladigini-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın derinliklerinden gelen mesajlar gibidir. Bazen günlük yaşamımızdaki olayların yansıması olurken, bazen de bilinmeyen bir anlam barındırır. Peki, rüyanızda birinin ağladığını gördüyseniz, bu ne anlama gelir? Empati mi yapıyorsunuz, yoksa bilinçaltınız sizi bir konuda uyarıyor mu?

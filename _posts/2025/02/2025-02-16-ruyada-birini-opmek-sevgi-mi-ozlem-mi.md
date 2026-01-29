@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Birini Öpmek: Sevgi mi, Özlem mi?"
 description: "Rüyanızda birini öptüğünüzü gördüyseniz, bu ne anlama gelir? Sevgi mi, özlem mi, yoksa başka bir mesaj mı taşıyor?"
+image: images/2025/02/ruyada-birini-opmek.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize sunduğu gizemli mesajlarla doludur. Bazen gündelik yaşantımızın yansımalarını, bazen ise derin duygularımızı ortaya çıkarırlar. Rüyanızda birini öptüğünüzü gördüyseniz, bu ne anlama gelir? Sevgi mi, özlem mi, yoksa başka bir mesaj mı taşıyor?
