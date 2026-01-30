@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Düğün Görmek: Mutluluk mu, Değişim mi?"
 description: "Rüyada düğün görmek gerçekten mutluluğun bir habercisi mi, yoksa hayatımızda büyük bir değişimin işareti mi?"
+image: images/2025/02/ruyada-dugun-gormek.jpg
 ---
 
 Rüyalar, bilinçaltımızın bizlere sunduğu gizemli mesajlarla doludur. Özellikle rüyada düğün görmek, birçok farklı anlam içerebilir. Peki, bu rüya gerçekten mutluluğun bir habercisi mi, yoksa hayatımızda büyük bir değişimin işareti mi?

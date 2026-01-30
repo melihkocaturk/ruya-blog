@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Ölmüş Birini Görmek: Mesaj mı, Bilinçaltı mı?"
 description: "Rüyada vefat etmiş birini görmek, pek çok kişi için derin anlamlar taşıyan, bazen huzur veren, bazen de korkutan bir deneyimdir."
+image: images/2025/02/ruyada-olmus-birini-gormek.jpg
 ---
 
 Rüyalar, insan zihninin en gizemli ve ilgi çekici yansımalarından biridir. Özellikle rüyada vefat etmiş birini görmek, pek çok kişi için derin anlamlar taşıyan, bazen huzur veren, bazen de korkutan bir deneyimdir. Peki, bu rüyalar gerçekten bir mesaj mı yoksa bilinçaltımızın bir oyunu mu?

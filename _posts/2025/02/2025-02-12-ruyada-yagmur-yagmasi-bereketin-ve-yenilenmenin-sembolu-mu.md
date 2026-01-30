@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Yağmur Yağması: Bereketin ve Yenilenmenin Sembolü mü?"
 description: "Rüyada yağmur yağması ne anlama gelir? Bu yazıda, rüyalarda yağmurun farklı yorumlarını ele alacağız."
+image: images/2025/02/ruyada-yagmur-yagmasi.jpg
 ---
 
 Rüyalar, bilinçaltımızın bize sunduğu sembollerle dolu gizemli dünyalardır. Bu semboller arasında yağmur, belki de en etkileyicilerinden biridir. Peki, rüyada yağmur yağması ne anlama gelir? Gerçekten bereketin ve yenilenmenin bir işareti midir? Bu yazıda, rüyalarda yağmurun farklı yorumlarını ele alacağız.

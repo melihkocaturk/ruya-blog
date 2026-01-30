@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Kaybolmak: Yönünü Mü Kaybettin?"
 description: "Rüyada kaybolmak ne anlama gelir? Eğer sık sık bu temayı içeren rüyalar görüyorsanız, bilinçaltınız size ne anlatmaya çalışıyor olabilir?"
+image: images/2025/02/ruyada-kaybolmak.jpg
 ---
 
 Rüyalar, bilinçaltımızın en derin köşelerinden gelen mesajlar taşır. Günlük hayatın karmaşası içinde fark edemediğimiz duygular ve düşünceler, bazen rüyalar aracılığıyla bize kendilerini gösterirler. Peki, rüyada kaybolmak ne anlama gelir? Eğer sık sık bu temayı içeren rüyalar görüyorsanız, bilinçaltınız size ne anlatmaya çalışıyor olabilir?

@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Uçmak: Özgürlüğün Sembolü mü?"
 description: "Rüyada uçmak gerçekten özgürlüğün bir sembolü mü, yoksa daha derin anlamlar mı içeriyor?"
+image: images/2025/02/ruyada-ucmak.jpg
 ---
 
 Rüyalar, bilinçaltımızın en derin katmanlarından gelen mesajlar olarak kabul edilir. Özellikle rüyada uçmak, insanların en sık gördüğü ve üzerinde en çok düşündüğü rüyalardan biridir. Peki, bu rüya gerçekten özgürlüğün bir sembolü mü, yoksa daha derin anlamlar mı içeriyor? Gelin, farklı kültürel yorumlar ve psikolojik analizlerle bu gizemli rüyayı inceleyelim.

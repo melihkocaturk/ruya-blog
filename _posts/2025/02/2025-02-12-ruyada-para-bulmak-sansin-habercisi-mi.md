@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Para Bulmak: Şansın Habercisi mi?"
 description: "Rüyada para bulmak gerçekten şansın habercisi mi? Yoksa bu rüya, hayatımızla ilgili daha derin anlamlar mı taşıyor?"
+image: images/2025/02/ruyada-para-bulmak.jpg
 ---
 
 Rüyalar, bilinçaltımızın derinliklerinden gelen mesajlar gibi gizemli ve etkileyici olabiliyor. Bu rüyalardan biri de rüyada para bulmak. Peki, rüyada para bulmak gerçekten şansın habercisi mi? Yoksa bu rüya, hayatımızla ilgili daha derin anlamlar mı taşıyor?

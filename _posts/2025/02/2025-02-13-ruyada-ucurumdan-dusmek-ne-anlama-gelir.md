@@ -2,6 +2,7 @@
 layout: post
 title: "Rüyada Uçurumdan Düşmek Ne Anlama Gelir?"
 description: "Uçurumdan düşmek rüyası da en yaygın görülen rüyalardan biridir ve genellikle kişinin hayatında kontrol kaybı yaşadığına dair yorumlanır."
+image: images/2025/02/ruyada-ucurumdan-dusmek.jpg
 ---
 
 Rüyalar, bilinçaltımızın derinliklerinden gelen mesajlar taşır. Kimi zaman anlamlandırması zor olan bu imgeler, psikolojimizi ve günlük yaşantımızı yansıtan unsurlar barındırır. Uçurumdan düşmek rüyası da en yaygın görülen rüyalardan biridir ve genellikle kişinin hayatında kontrol kaybı yaşadığına dair yorumlanır.
