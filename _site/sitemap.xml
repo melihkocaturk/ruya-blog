@@ -721,6 +721,18 @@
 <lastmod>2026-01-29T00:00:00+03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/bilincalti-ruyalarla-konusur-mu-bilim-ne-diyor</loc>
+<lastmod>2026-02-07T00:00:00+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/ruyada-deprem-gormek-ne-anlama-gelir</loc>
+<lastmod>2026-02-07T00:00:00+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/stres-ve-kaygi-ruyalarimizi-nasil-etkiler</loc>
+<lastmod>2026-02-07T00:00:00+03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/ara</loc>
 </url>
 <url>
@@ -833,5 +845,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/sayfa36/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/sayfa37/</loc>
 </url>
 </urlset>
