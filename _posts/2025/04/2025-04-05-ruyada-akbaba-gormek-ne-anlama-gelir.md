@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rüyada Akbaba Görmek Ne Anlama Gelir?"
-description: "Bu yazımızda, rüyada akbaba görmek ne anlama gelir sorusunun yanıtlarını detaylıca inceleyeceğiz."
+description: "Rüyada akbaba görmek; tehdit, sıkıntı ve kaygıların farkına varma, uyarı ve beklenmedik değişimlerle yüzleşme anlamına gelebilir; rüyanın yorumu ayrıntılara göre farklılaşır."
 image: images/2025/04/ruyada-akbaba-gormek-ne-anlama-gelir.jpg
 ---
 

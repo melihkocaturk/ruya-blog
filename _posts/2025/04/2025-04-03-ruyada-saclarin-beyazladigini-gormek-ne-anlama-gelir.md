@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rüyada Saçların Beyazladığını Görmek Ne Anlama Gelir?"
-description: "Bu yazıda, rüyada saç beyazlamasının farklı yorumlarını ele alacağız."
+description: "Rüyada saçların beyazladığını görmek; bilgelik, olgunlaşma, stres ve hayatınızda yaşanacak önemli değişimlere işaret edebilir. Rüyanın yorumu, ruh halinize ve yaşam koşullarınıza göre farklılık gösterebilir."
 image: images/2025/04/ruyada-saclarin-beyazladigini-gormek.jpg
 ---
 

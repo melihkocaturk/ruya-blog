@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rüyada Kan Görmek Ne Anlama Gelir? Derinlemesine Analiz"
-description: "Bu yazıda, rüyada kan görmenin farklı anlamlarını detaylı bir şekilde inceleyeceğiz."
+description: "Rüyada kan görmek, bilinçaltındaki güçlü duygular, içsel değişimler, ruhsal dönüşüm veya stresli süreçlerin sembolüdür; yorum, kanın durumuna ve rüyadaki detaylara göre değişir."
 image: images/2025/02/ruyada-kan-gormek.jpg
 ---
 
