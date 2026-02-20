@@ -1,5 +1,4 @@
 html {
-  border-top: 5px solid #000;
   font-size: 115%;
 }
 
@@ -15,8 +14,6 @@ body {
   font-style: normal;
   line-height: 1.66;
   color: #333;
-  padding-left: 15px;
-  padding-right: 15px;
 }
 
 h1,
@@ -71,6 +68,14 @@ h5 {
 
 h6 {
   font-size: 0.88rem
+}
+
+.banner {
+  background-color: #636363;
+}
+
+.canvas {
+  border-top: 5px solid #000;
 }
 
 .inner {

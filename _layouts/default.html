@@ -16,12 +16,20 @@
 </head>
 
 <body>
-  <div class="inner mx-auto">
-    {% include header.html %}
-    <main>
-      {{ content }}
-    </main>
-    {% include footer.html %}
+  {% if site.top_banner == true %}
+    <div class="banner px-3 py-2 text-center">
+      {% include banner.html %}
+    </div>
+  {% endif %}
+
+  <div class="canvas px-3">
+    <div class="inner mx-auto">
+      {% include header.html %}
+      <main>
+        {{ content }}
+      </main>
+      {% include footer.html %}
+    </div>
   </div>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"
